@@ -1,6 +1,9 @@
 ---
 title: testing post van geoffrey
-intro: test
+intro: |-
+  ```
+  test
+  ```
 team:
   - firstname: Geoffrey
     name: Pappaert
