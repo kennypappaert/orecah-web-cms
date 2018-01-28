@@ -6,4 +6,4 @@ date: '2018-01-28 12:42pm'
 
 ## susub title in post
 
-- listing
+- listings
