@@ -1,9 +1,9 @@
 ---
 title: testing post van geoffrey
-date: '2018-01-28 12:42pm'
+intro: test
+team:
+  - firstname: Geoffrey
+    name: Pappaert
+    position: webWizard
 ---
-# test title in post
 
-## susub title in post
-
-- listings
