@@ -1,12 +1,6 @@
 ---
 title: testing post van geoffrey
-intro: |-
-  ```
-  test
-  ```
-team:
-  - firstname: Geoffrey
-    name: Pappaert
-    position: webWizard
+intro: testing an intro for this page
 ---
 
+page body text
