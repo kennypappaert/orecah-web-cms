@@ -1,7 +1,7 @@
 ---
 title: When food becomes a passion
 live: true
-path: /
+path: /home
 template: home
 intro: >-
   Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah
