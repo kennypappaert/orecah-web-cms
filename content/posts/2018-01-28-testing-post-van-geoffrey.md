@@ -1,9 +1,9 @@
 ---
 title: testing post van geoffrey
-liveDate: 2018-01-10T00:00:00+01:00
+liveDate: 2018-01-09T23:00:00.000Z
 ---
-# test title in post
+# test title in posts
 
 ## susub title in post
 
-- listings
+* listings
