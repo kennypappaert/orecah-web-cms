@@ -15,6 +15,8 @@ Het begon op mijn 15 jaar met een hotelopleiding en elk weekend in restaurants t
 
 In 2013 begon Orecah kleinschalig met hier en daar traiteurs aan huis te doen. Samen met de ervaring en kennis groeide ook de creativiteit en passie in onze catering. Orecah is een vaste waarde geworden in het Pajottenland.
 
+![orecah logo](/assets/img/orecah.logo.large.png)
+
 We hebben al verschillende stadia doorlopen en blijven ons inzetten om onze creativiteit te prikkelen. Geen uitdaging is voor ons te veel, wij werken graag met verse kwaliteitsvolle ingrediënten en op maat van de klant om ons te onderscheiden.
 
 Begin 2015 nam Orecah een sandwichbar/tearoom over in een shoppingcentrum in Brussel. In 2017 namen wij Max Boterhammen over. Dit is een Leveringsdienst van broodjes aan bedrijven.
