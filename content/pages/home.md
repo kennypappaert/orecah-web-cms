@@ -1,8 +1,9 @@
 ---
-title: When food becomes a passion
 live: true
+name: Orecah | Home
 path: /
 template: home
+title: When food becomes a passion
 intro: >-
   Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah
   op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat
@@ -10,6 +11,10 @@ intro: >-
   in de huiskamer. Orecah staat altijd voor kwaliteit. Maatwerk is ons
   handelsmerk.
 subtitle: '#The chefs historys'
+team:
+  - firstname: Kenny
+    name: Pappaert
+    position: Founder & Manager
 ---
 Het begon op mijn 15 jaar met een hotelopleiding en elk weekend in restaurants te werken. Zowel de keuken als de zaal konden mij boeien. Na een paar jaar als weekendkracht en de leerrijke stages in klasserestaurants begon de honger naar kennis en vaardigheden groter te worden. In 2012 besloot ik de ervaring die ik had opgedaan nuttig te gebruiken en in te spelen op 1 van de grootste problemen in de horeca. Op zelfstandige basis begon ik te werken voor restaurants die in personeelsnood waren, zowel keuken als zaal. Vandaag de dag kunnen al meer dan 24 cateraars, sterren- en klasserestaurants rekenen op de hulp van mij en het Orecah-team.
 
