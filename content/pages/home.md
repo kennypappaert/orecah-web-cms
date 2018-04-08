@@ -1,6 +1,6 @@
 ---
 live: true
-name: Orecah | Home
+name: Home
 path: /
 template: home
 title: When food becomes a passion
