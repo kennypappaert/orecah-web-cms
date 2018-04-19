@@ -4,9 +4,9 @@ title: When food becomes a passion
 intro: >-
   Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah
   op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat
-  is Orecah. Van een eigen broodjeszaak tot gezellige verzorgde etentjes bij u
-  in de huiskamer. Orecah staat altijd voor kwaliteit. Maatwerk is ons
-  handelsmerk.
+  is Orecah. Van exclusieve, verfijnde catering tot een eigen broodjeszaak en een leveringsdienst van dagschotels aan huis.
+  Orecah staat altijd voor kwaliteit. 
+  Maatwerk is ons handelsmerk.
 subtitle: '#The chefs historys'
 id: kenny
 ---
@@ -17,6 +17,7 @@ In 2013 begon Orecah kleinschalig met hier en daar traiteurs aan huis te doen. S
 We hebben al verschillende stadia doorlopen en blijven ons inzetten om onze creativiteit te prikkelen. Geen uitdaging is voor ons te veel, wij werken graag met verse kwaliteitsvolle ingrediënten en op maat van de klant om ons te onderscheiden.
 
 Begin 2015 nam Orecah een sandwichbar/tearoom over in een shoppingcentrum in Brussel. In 2017 namen wij Max Boterhammen over. Dit is een Leveringsdienst van broodjes aan bedrijven.
+In 2018 zijn wij gestart met E-lunch.be, hierbij leveren wij verse dagschotels aan huis.
 
 Onze leuze "When food becomes a passion" is bij ons geen vage slogan, het is een dagelijkse vaststelling.
 
