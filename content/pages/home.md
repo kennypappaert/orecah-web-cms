@@ -7,7 +7,7 @@ intro: >-
   is Orecah. Van exclusieve, verfijnde catering tot een eigen broodjeszaak en een leveringsdienst van dagschotels aan huis.
   Orecah staat altijd voor kwaliteit. 
   Maatwerk is ons handelsmerk.
-subtitle: '#The chefs historys'
+subtitle: '#The chefs history'
 id: kenny
 ---
 Het begon op mijn 15 jaar met een hotelopleiding en elk weekend in restaurants te werken. Zowel de keuken als de zaal konden mij boeien. Na een paar jaar als weekendkracht en de leerrijke stages in klasserestaurants begon de honger naar kennis en vaardigheden groter te worden. In 2012 besloot ik de ervaring die ik had opgedaan nuttig te gebruiken en in te spelen op 1 van de grootste problemen in de horeca. Op zelfstandige basis begon ik te werken voor restaurants die in personeelsnood waren, zowel keuken als zaal. Vandaag de dag kunnen al meer dan 24 cateraars, sterren- en klasserestaurants rekenen op de hulp van mij en het Orecah-team.
