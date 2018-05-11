@@ -1,7 +1,6 @@
 ---
-title: Kenny Pappaert
 firstname: Kenny
-lastname: Pappaert
+lastname: Pappaerts
 jobtitle: Founder & Manager
 ---
 
