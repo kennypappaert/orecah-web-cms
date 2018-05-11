@@ -1,7 +1,7 @@
 ---
 firstname: Geoffrey
 lastname: Pappaert
-title: IT & Designer
+title: IT & Designer PRO
 language: nl
 ---
 
