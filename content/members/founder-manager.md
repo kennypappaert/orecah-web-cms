@@ -1,5 +1,5 @@
 ---
-title: Kenny Pappaert
+title: Kenny Pappaerts
 jobtitle: Founder & Manager
 ---
 
