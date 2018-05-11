@@ -1,6 +1,5 @@
 ---
-title: Geoffrey
-lastname: Pappaert
+title: Geoffrey Pappaert
 jobtitle: IT & Designer
 ---
 
