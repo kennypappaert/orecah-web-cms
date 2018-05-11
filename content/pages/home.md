@@ -1,6 +1,9 @@
 ---
 author: Kenny
 name: Home
+live: true
+template: home
+path: /
 title: When food becomes a passion
 intro: >-
   Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah
