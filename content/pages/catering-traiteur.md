@@ -1,10 +1,10 @@
 ---
 author: Kenny
-name: Catering & Traiteur
-title: Catering & Traiteur
+name: Exclusive Catering
+title: Exclusive Catering
 live: true
-path: /catering-traiteur
-template: catering-traiteur
+path: /exclusive-catering
+template: catering
 ---
 Bij Orecah staan we voor exclusieve catering. Smaak primeert, maar het oog wil ook wat. 
 Mensen eten geven is ons vak, mensen doen genieten is onze passie. 
