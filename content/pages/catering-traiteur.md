@@ -1,5 +1,11 @@
 ---
+author: Kenny
+name: Catering & Traiteur
+title: Catering & Traiteur
+intro: "Bij Orecah staan we voor exclusieve catering. Smaak primeert, maar het oog wil ook wat. \r\nMensen eten geven is ons vak, mensen doen genieten is onze passie. \r\nVan een klein gezellig feestje bij u in de huiskamer. Tot grote seminaries en gala-avonden.\r\nWij zijn niet aan ons proefstuk toe, na 5 jaar ervaring in de sector hebben wij alle kennis in huis om van uw event een onvergetelijke dag te maken. Wij innoveren elke dag en onze leergierigheid prikkelt onze creativiteit.  \r\nWij kunnen u bijstaan van de uitnodigingen tot aan de afwas.\r\nOp deze site vindt u geen vaste tarieven of arrangementen. Reden? We streven naar een gepersonaliseerde service en willen bereiken dat het eindresultaat is zoals u, de klant, het in gedachten had. Samen met u maken we prijsoffertes op maat en werken jouw feest of bijeenkomst volledig uit. Aarzel niet om advies en uitleg te vragen en contacteer ons gerust over uw idee.\r\n"
+subtitle: t
 live: true
-template: catering-traiteur
 path: /catering-traiteur
+template: catering-traiteur
 ---
+t
