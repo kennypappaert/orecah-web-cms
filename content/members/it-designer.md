@@ -1,6 +1,6 @@
 ---
-firstname: Geoffrey
+title: Geoffrey
 lastname: Pappaert
-title: IT & Designer
+jobtitle: IT & Designer
 ---
 
