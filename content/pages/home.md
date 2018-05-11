@@ -1,5 +1,5 @@
 ---
-author: Kenny
+author: Kenny Pappaert
 name: Home
 title: When food becomes a passion
 intro: >-
