@@ -1,7 +1,7 @@
 ---
 firstname: Kenny
 lastname: Pappaert
-uniquename: kenny_pappaert
+id: kenny_pappaert
 jobtitle: Founder & Manager
 ---
 
