@@ -1,5 +1,5 @@
 ---
-author: Kenny
+author: kenny_pappaert
 name: Exclusive Catering
 title: Exclusive Catering
 live: true
