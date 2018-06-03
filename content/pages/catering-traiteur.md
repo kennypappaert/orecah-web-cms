@@ -1,7 +1,7 @@
 ---
 author: kenny_pappaert
 name: Exclusive Catering
-title: Exclusive Catering
+title: Exclusieve Catering
 live: true
 path: /exclusive-catering
 template: catering
