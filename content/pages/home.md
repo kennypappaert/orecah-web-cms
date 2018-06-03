@@ -2,18 +2,11 @@
 author: kenny_pappaert
 name: Home
 title: When food becomes a passion
-intro: >-
-  Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah
-  op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat
-  is Orecah. Van exclusieve, verfijnde catering tot een eigen broodjeszaak en
-  een leveringsdienst van dagschotels aan huis. Orecah staat altijd voor
-  kwaliteit.  Maatwerk is ons handelsmerk.
-subtitle: '#The chefs history'
 live: true
 path: /
 template: home
 ---
-**Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat is Orecah. Van exclusieve, verfijnde catering tot een eigen broodjeszaak en een leveringsdienst van dagschotels aan huis. Orecah staat altijd voor kwaliteit.  Maatwerk is ons handelsmerk.**
+**Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat is Orecah. Van exclusieve, verfijnde catering tot een eigen broodjeszaak en een leveringsdienst van dagschotels aan huis. Orecah staat altijd voor kwaliteit. Maatwerk is ons handelsmerk.**
 
 ## \#The chefs history
 
