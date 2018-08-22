@@ -1,8 +1,8 @@
 ---
-name: Orecah | Gallery
+name: Gallery
+title: Foto Gallerij
 live: true
 path: /fotos
 template: gallery
-title: Foto Gallerij
 ---
 body
