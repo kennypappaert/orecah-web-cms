@@ -5,7 +5,7 @@ live: 'false'
 path: /studioeuropa
 template: event
 ---
-# New Year Eve Party
+# New Years Eve Party
 
 ## by Orecah & Studio Europa
 
