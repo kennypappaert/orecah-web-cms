@@ -33,8 +33,8 @@ Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het n
 
 Onze 2 dj’s zijn beiden toppers in hun vak en zullen jullie laten dansen en entertainen tot in de vroege uurtjes! 
 
-🎧 Dj Da Pierre (bekend van Studio 54 & Funky Antwerp)
-🎧 Dj Daddy Cool (bekend van de Midlifeparty & Radio M fm)
+* 🎧 Dj Da Pierre (bekend van Studio 54 & Funky Antwerp)
+* 🎧 Dj Daddy Cool (bekend van de Midlifeparty & Radio M fm)
 
 Ambiance verzekerd! 
 
