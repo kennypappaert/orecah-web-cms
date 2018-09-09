@@ -2,7 +2,7 @@
 name: New Year
 title: title
 live: 'false'
-path: /studioeuropa
+path: /tmp
 template: '404'
 ---
 test
