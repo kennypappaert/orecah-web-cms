@@ -5,6 +5,8 @@ live: 'false'
 path: /studioeuropa
 template: event
 ---
+# New Year Eve Party
+
 ## by Orecah & Studio Europa
 
 **Op oudejaarsavond kan u bij Studio Europa het huidige jaar heerlijk afsluiten, en het nieuwe jaar starten met een absolute topparty! **
