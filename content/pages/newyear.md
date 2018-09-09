@@ -20,6 +20,8 @@ Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het n
 
 RESERVEREN is verplicht
 
+![image of food](/assets/img/22-april_gala-avond_dsc2655.jpg)
+
 ENKEL PARTY - € 15 p.p.
 Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 22u30. 
 
