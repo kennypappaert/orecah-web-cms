@@ -1,7 +1,7 @@
 ---
 name: New Year
 title: title
-live: 'true'
+live: 'false'
 path: /studioeuropa
 template: studioeuropa
 ---
