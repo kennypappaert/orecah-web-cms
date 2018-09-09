@@ -2,7 +2,7 @@
 name: New Year Eve
 title: New Year Eve Party
 live: 'false'
-path: /tmp
+path: /studioeuropa
 template: event
 ---
 Studio Europa presents:
