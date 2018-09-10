@@ -19,8 +19,7 @@ Nadien zal de muziek al wat luider gaan voor wie niet meer kan stilzitten. Maar 
 
 Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het nieuwe jaar. 
 
-**RESERVEREN is verplicht**\
-**<button class="buy">Tickets Kopen</button>**
+**RESERVEREN is verplicht <button class="buy">Tickets Kopen</button>**
 
 ![fluid](/assets/img/22-april_gala-avond_dsc2655.jpg)
 
