@@ -32,6 +32,23 @@ Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 22u30
 Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het nieuwe jaar. \
 (Geen reservatie nodig) 
 
+## NEW YEAR’S VIP Silver  - €185
+
+* \-1 VIP statafel
+* \-4 tot 6 entrees
+* \-1 fles champagne
+* \-fingerfood
+* **RESERVEREN is verplicht**
+
+## NEW YEAR’S VIP Golden  - €275
+
+* \-1 VIP statafel
+* \-6 tot 8 entrees
+* \-2 flessen champagne of
+* 1 fles spirit met 10 softs naar keuze
+* \-fingerfood 
+* **RESERVEREN is verplicht**
+
 ## Muziek
 
 Onze 2 dj’s zijn beiden toppers in hun vak en zullen jullie laten dansen en entertainen tot in de vroege uurtjes! 
