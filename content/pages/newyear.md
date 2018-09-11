@@ -44,8 +44,7 @@ Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het n
 
 * \-1 VIP statafel
 * \-6 tot 8 entrees
-* \-2 flessen champagne of
-* 1 fles spirit met 10 softs naar keuze
+* \-2 flessen champagne of 1 fles spirit met 10 softs naar keuze
 * \-fingerfood 
 * **RESERVEREN is verplicht**
 
