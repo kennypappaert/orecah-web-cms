@@ -27,8 +27,8 @@ Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het n
 
 ## ENKEL PARTY - €15 p.p.
 
-Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 22u30. \
-Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het nieuwe jaar. \
+Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 22u30.\
+Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het nieuwe jaar.\
 (Geen reservatie nodig) 
 
 ## NEW YEAR’S VIP Silver  - €185
