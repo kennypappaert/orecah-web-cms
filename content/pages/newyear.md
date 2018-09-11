@@ -21,7 +21,7 @@ Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het n
 
 **RESERVEREN is verplicht**
 
-**<a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL"><button class="buy">Tickets Kopen</button></a>
+**<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Tickets Kopen</a></button>
 **
 
 ![fluid](/assets/img/22-april_gala-avond_dsc2655.jpg)
@@ -44,7 +44,8 @@ Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het n
 
 * \-1 VIP statafel
 * \-6 tot 8 entrees
-* \-2 flessen champagne of 1 fles spirit met 10 softs naar keuze
+* \-2 flessen champagne of
+  1 fles spirit met 10 softs naar keuze
 * \-fingerfood 
 * **RESERVEREN is verplicht**
 
