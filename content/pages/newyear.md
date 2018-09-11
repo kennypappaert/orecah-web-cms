@@ -19,7 +19,9 @@ Nadien zal de muziek al wat luider gaan voor wie niet meer kan stilzitten. Maar 
 
 Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het nieuwe jaar. 
 
-**RESERVEREN is verplicht <button class="buy">Tickets Kopen</button>
+**RESERVEREN is verplicht**
+
+**<a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL"><button class="buy">Tickets Kopen</button></a>
 **
 
 ![fluid](/assets/img/22-april_gala-avond_dsc2655.jpg)
@@ -41,4 +43,4 @@ Ambiance verzekerd!
 
 Voor het dinner werken wij samen met Orecah. Jullie smaakpapillen zullen worden verwend, want Orecah staat bekend voor hun exclusieve catering waar smaak primeert, maar mét oog voor detail op het bord. Ze toveren de meest lekkere en verfijnde gerechten op tafel.
 
-![](/assets/img/41095663_326575874781101_6980372392115699712_n.jpg)
+![null](/assets/img/41095663_326575874781101_6980372392115699712_n.jpg)
