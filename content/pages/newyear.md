@@ -1,7 +1,7 @@
 ---
 name: New Year Eve
 title: New Year Eve Party
-live: 'false'
+live: 'true'
 path: /studioeuropa
 template: event
 ---
@@ -21,8 +21,7 @@ Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het n
 
 **RESERVEREN is verplicht**
 
-**<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Tickets Kopen</a></button>
-**
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Tickets Kopen</a></button>
 
 ![fluid](/assets/img/22-april_gala-avond_dsc2655.jpg)
 
@@ -32,21 +31,21 @@ Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 22u30
 Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het nieuwe jaar. \
 (Geen reservatie nodig) 
 
-## NEW YEAR’S VIP Silver  - €185
+## NEW YEAR’S VIP Silver  - € 185
 
-* \-1 VIP statafel
-* \-4 tot 6 entrees
-* \-1 fles champagne
-* \-fingerfood
+* 1 VIP statafel
+* 4 tot 6 entrees
+* 1 fles champagne
+* fingerfood
 * **RESERVEREN is verplicht**
 
-## NEW YEAR’S VIP Golden  - €275
+## NEW YEAR’S VIP Golden  - € 275
 
-* \-1 VIP statafel
-* \-6 tot 8 entrees
-* \-2 flessen champagne of
+* 1 VIP statafel
+* 6 tot 8 entrees
+* 2 flessen champagne of
   1 fles spirit met 10 softs naar keuze
-* \-fingerfood 
+* fingerfood 
 * **RESERVEREN is verplicht**
 
 ## Muziek
