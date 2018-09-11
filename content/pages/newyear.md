@@ -11,7 +11,7 @@ template: event
 
 **Op oudejaarsavond kan u bij Studio Europa het huidige jaar heerlijk afsluiten, en het nieuwe jaar starten met een absolute topparty! **
 
-## DINNER & PARTY - € 89 p.p.
+## DINNER & PARTY - €89 p.p.
 
 Samen met uw vrienden en/of familie verwelkomen wij u graag om **18u** met een lekker aperitief. Jullie worden verwend met verfijnde voorgerechtjes om het heerlijke diner te starten. 
 Vervolgens nodigen wij u met plezier uit aan het uitgebreide hoofdgerechtenbuffet. Onze chef-kok en zijn team zorgen er voor dat jullie naar hartelust kunnen genieten van de meest heerlijke en smaakvolle gerechten. 
@@ -25,13 +25,13 @@ Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het n
 
 ![fluid](/assets/img/22-april_gala-avond_dsc2655.jpg)
 
-## ENKEL PARTY - € 15 p.p.
+## ENKEL PARTY - €15 p.p.
 
 Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 22u30. \
 Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het nieuwe jaar. \
 (Geen reservatie nodig) 
 
-## NEW YEAR’S VIP Silver  - € 185
+## NEW YEAR’S VIP Silver  - €185
 
 * 1 VIP statafel
 * 4 tot 6 entrees
@@ -39,7 +39,7 @@ Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het n
 * fingerfood
 * **RESERVEREN is verplicht**
 
-## NEW YEAR’S VIP Golden  - € 275
+## NEW YEAR’S VIP Golden  - €275
 
 * 1 VIP statafel
 * 6 tot 8 entrees
