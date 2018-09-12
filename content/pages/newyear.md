@@ -13,7 +13,7 @@ template: event
 
 ## DINNER & PARTY - €89 p.p.
 
-Samen met uw vrienden en/of familie verwelkomen wij u graag om** 18u **met een lekker aperitief. Jullie worden verwend met verfijnde voorgerechtjes om het heerlijke diner te starten. 
+Samen met uw vrienden en/of familie verwelkomen wij u graag om 18u met een lekker aperitief. Jullie worden verwend met verfijnde voorgerechtjes om het heerlijke diner te starten. 
 Vervolgens nodigen wij u met plezier uit aan het uitgebreide hoofdgerechtenbuffet. Onze chef-kok en zijn team zorgen er voor dat jullie naar hartelust kunnen genieten van de meest heerlijke en smaakvolle gerechten. 
 Nadien zal de muziek al wat luider gaan voor wie niet meer kan stilzitten. Maar na het heerlijke dessert zal de party echt helemaal los barsten!
 
