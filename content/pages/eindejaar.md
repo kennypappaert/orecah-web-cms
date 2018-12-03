@@ -30,9 +30,7 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 * Quinoa / couscous / groentenassortiment\
   **_\*+ Dessert uit menu €42 p.p._**
 
-**RESERVEREN is verplicht**
-
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Tickets Kopen</a></button>
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu </a></button>
 
 ## The Chef's choice - MENU 1 - €45 p.p.
 
