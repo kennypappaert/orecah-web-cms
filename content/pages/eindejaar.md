@@ -15,6 +15,8 @@ template: menu
 
 **🍽️ Hapjes, voorgerecht en dessert zijn klaar om op te dienen. Soep en hoofdgerecht dienen enkel eventjes opgewarmd te worden. Schuif je benen onder tafel en geniet samen met je gasten. Santé!🥂**
 
+**!!!!!!!!HIER KOMT FOTO VAN EINDEJAARSMENU **
+
 ## Koud Buffet - €35 p.p.
 
 * Rundscarpaccio
