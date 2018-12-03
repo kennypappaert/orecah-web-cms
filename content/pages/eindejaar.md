@@ -11,9 +11,9 @@ template: menu
 
 **Ontvangt u ook volk op kerst of oudejaar? 🎉**
 
-**Maak het uzelf makkelijk en bestel uw menu bij Orecah. **
+Maak het uzelf makkelijk en bestel uw menu bij Orecah. 
 
-**🍽️ Hapjes, voorgerecht en dessert zijn klaar om op te dienen. Soep en hoofdgerecht dienen enkel eventjes opgewarmd te worden. Schuif je benen onder tafel en geniet samen met je gasten. Santé!🥂**
+🍽️ Hapjes, voorgerecht en dessert zijn klaar om op te dienen. Soep en hoofdgerecht dienen enkel eventjes opgewarmd te worden. Schuif je benen onder tafel en geniet samen met je gasten. Santé!🥂
 
 **!!!!!!!!HIER KOMT FOTO VAN EINDEJAARSMENU **
 
@@ -28,7 +28,7 @@ template: menu
 * Mozzarella / tomaat
 * Aardappelsalade / pastasalade / vers brood
 * Quinoa / couscous / groentenassortiment\
-  *+ Dessert uit menu €42 p.p.
+  _**\*+ Dessert uit menu €42 p.p.**_
 
 **RESERVEREN is verplicht**
 
@@ -48,12 +48,10 @@ template: menu
 3. Zeewolf / shiitake / wortel / limoen 
 4. Gebak / chocolade / citroen / framboos  
 
-\*Beide menu’s: 
+**\*Beide menu’s: **
 
-* Keuze uit puree, amandelkroketjes of aardappelgratin
-* U kan gerust gerechten wisselen tussen de menu’s
-
-  
+* _Keuze uit puree, amandelkroketjes of aardappelgratin_
+* _U kan gerust gerechten wisselen tussen de menu’s_
 
 ## Extra lekkernijen
 
@@ -68,23 +66,23 @@ template: menu
 * Red: Querciaville Toscane IGT / €14,08
 * \*Exclusief assortiment wijnen verkrijgbaar op aanvraag 
 
-## Info 
+## Info
 
-2 Afhaaladressen/
+**2 Afhaaladressen/**
 
 1. Autres Saveurs by Orecah
    @ Cora shopping Anderlecht
-2.  Orecah
+2. Orecah
    @ Geraardsbergsesteenweg 46, Herne
 
-Afsluitdatum bestellingen: 
+**Afsluitdatum bestellingen: **
 
 * Kerst 17dec - Nieuwjaar 24dec
 * Bestellingen zijn pas bevestigd na betaling op onderstaand rekeningnummer met vermelding van naam en bestelnummer of via onze webshop.
 * Afhalingen tussen 14u en 18u met bevestigingsmail.
 * Voor alle vragen of info neemt u gerust contact op.
 
-Gegevens:
+**Gegevens:**
 
 * BTW BE 0589.970.529
 * ING Bank / IBAN: BE19 3630 7239 8012 /  BIC: BBRUBEBB
