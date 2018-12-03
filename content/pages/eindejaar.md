@@ -9,7 +9,11 @@ template: menu
 
 ## by Orecah
 
-**Op oudejaarsavond kan u bij Studio Europa het huidige jaar heerlijk afsluiten, en het nieuwe jaar starten met een absolute topparty! **
+**Ontvangt u ook volk op kerst of oudejaar? 🎉**
+
+**Maak het uzelf makkelijk en bestel uw menu bij Orecah. **
+
+**🍽️ Hapjes, voorgerecht en dessert zijn klaar om op te dienen. Soep en hoofdgerecht dienen enkel eventjes opgewarmd te worden. Schuif je benen onder tafel en geniet samen met je gasten. Santé!🥂**
 
 ## Koud Buffet - €35 p.p.
 
