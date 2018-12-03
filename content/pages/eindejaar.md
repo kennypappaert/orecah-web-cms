@@ -28,7 +28,7 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 * Mozzarella / tomaat
 * Aardappelsalade / pastasalade / vers brood
 * Quinoa / couscous / groentenassortiment\
-  _**\*+ Dessert uit menu €42 p.p.**_
+  **_\*+ Dessert uit menu €42 p.p._**
 
 **RESERVEREN is verplicht**
 
@@ -52,6 +52,18 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 
 * _Keuze uit puree, amandelkroketjes of aardappelgratin_
 * _U kan gerust gerechten wisselen tussen de menu’s_
+
+## Onze gekende NUGGETZ
+
+500g Chicken "Nuggetz" +- 14 stuks. Home-made & fresh/frozen
+
+Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten. Vraag feedback bij onze klanten. Alle Orecah-klanten kennen onze lekkere "Nuggetz".
+
+"Nuggetz" diepgevroren producten zijn langer houdbaar d.m.v. het invries- & vacuümproces. 
+
+
+
+!!!!!! FOTO NUGGETZ 
 
 ## Extra lekkernijen
 
