@@ -72,9 +72,9 @@ _\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
 ## Info
 
 **2 Afhaaladressen:**
-1. Autres Saveurs by Orecah
+1. Autres Saveurs by Orecah\
    **@ Cora shopping Anderlecht**
-2. Orecah
+2. Orecah\
    **@ Geraardsbergsesteenweg 46, Herne**
 
 **Afsluitdatum bestellingen:**
@@ -88,4 +88,4 @@ _\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
 * ING Bank / IBAN: BE19 3630 7239 8012 /  BIC: BBRUBEBB
 * KBC Bank /  IBAN: BE36 7360 3691 0281  / BIC: KREDBEBB
 * Kenny Pappaert - info@orecah.be 
-* 0496 69 48 42 - www.orecah.be
+* 0496 69 48 42 - www.orecah.be\
