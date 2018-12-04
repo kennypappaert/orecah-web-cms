@@ -28,7 +28,7 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 * Mozzarella / tomaat
 * Aardappelsalade / pastasalade / vers brood
 * Quinoa / couscous / groentenassortiment\
-  _**\*+ Dessert uit menu €42 p.p.**_
+  **_\*+ Dessert uit menu €42 p.p._**
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu </a></button>
 
@@ -60,7 +60,7 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 
 "Nuggetz" diepgevroren producten zijn langer houdbaar d.m.v. het invries- & vacuümproces. 
 
-!!!!!! FOTO NUGGETZ 
+![chicken nuggets](/assets/img/nuggetz.jpg)
 
 ## Extra lekkernijen
 
