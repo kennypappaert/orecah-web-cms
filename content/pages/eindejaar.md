@@ -96,5 +96,3 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 * KBC Bank /  IBAN: BE36 7360 3691 0281  / BIC: KREDBEBB
 * Kenny Pappaert - info@orecah.be 
 * 0496 69 48 42 - www.orecah.be
-
-Orecah: When food becomes a passion! 
