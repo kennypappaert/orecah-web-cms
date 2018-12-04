@@ -77,21 +77,18 @@ _\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
 ## Info
 
 **2 Afhaaladressen:**
-
 1. Autres Saveurs by Orecah
    @ Cora shopping Anderlecht
 2. Orecah
    @ Geraardsbergsesteenweg 46, Herne
 
 **Afsluitdatum bestellingen:**
-
 * Kerst 17dec -Nieuwjaar 24dec
 * Bestellingen zijn pas bevestigd na betaling op onderstaand rekeningnummer met vermelding van naam en bestelnummer of via onze webshop.
 * Afhalingen tussen 14u en 18u met bevestigingsmail.
 * Voor alle vragen of info neemt u gerust contact op.
 
 **Gegevens:**
-
 * BTW BE 0589.970.529
 * ING Bank / IBAN: BE19 3630 7239 8012 /  BIC: BBRUBEBB
 * KBC Bank /  IBAN: BE36 7360 3691 0281  / BIC: KREDBEBB
