@@ -75,7 +75,7 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 
 ## Info
 
-**2 Afhaaladressen:**
+### 2 Afhaaladressen:
 
 1. Autres Saveurs by Orecah\
    **@ Cora shopping Anderlecht**
