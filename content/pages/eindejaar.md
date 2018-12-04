@@ -58,24 +58,24 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 
 ## Extra lekkernijen
 
-* Culinaire hapjes (3st) / €10p.p.
-* Verwen petit-fours voor bij koffie (4st) / €9p.p.
-* Cava Fanatic / €9,5
-* Champagne Préveteau Perrier / €30,83
-* Champagne Albert Beerens Cuvee Carte Or / €38,96
-* White: Quinta essencia 2016 / €11,16
-* White: Garganega IGT / €13,50
-* Red: Domaine Nicolas Croze 2015 / €11,91
-* Red: Querciaville Toscane IGT / €14,08
+* Culinaire hapjes (3st): €10p.p.
+* Verwen petit-fours voor bij koffie (4st): €9p.p.
+* Cava Fanatic: €9,5
+* Champagne Préveteau Perrier: €30,83
+* Champagne Albert Beerens Cuvee Carte Or: €38,96
+* White: Quinta essencia 2016: €11,16
+* White: Garganega IGT: €13,50
+* Red: Domaine Nicolas Croze 2015: €11,91
+* Red: Querciaville Toscane IGT: €14,08
 _\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
 
 ## Info
 
 **2 Afhaaladressen:**
 1. Autres Saveurs by Orecah
-   @ Cora shopping Anderlecht
+   **@ Cora shopping Anderlecht**
 2. Orecah
-   @ Geraardsbergsesteenweg 46, Herne
+   **@ Geraardsbergsesteenweg 46, Herne**
 
 **Afsluitdatum bestellingen:**
 * Kerst 17dec -Nieuwjaar 24dec
