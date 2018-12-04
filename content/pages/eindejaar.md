@@ -74,7 +74,7 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 * Red: Domaine Nicolas Croze 2015 / €11,91
 * Red: Querciaville Toscane IGT / €14,08
 
-_\*Exclusief assortiment wijnen verkrijgbaar op aanvraag _
+_\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
 
 ## Info
 
