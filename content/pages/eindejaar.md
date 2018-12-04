@@ -85,7 +85,7 @@ _\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
 2. Orecah
    @ Geraardsbergsesteenweg 46, Herne
 
-Afsluitdatum bestellingen:
+**Afsluitdatum bestellingen:**
 
 * Kerst 17dec -Nieuwjaar 24dec
 * Bestellingen zijn pas bevestigd na betaling op onderstaand rekeningnummer met vermelding van naam en bestelnummer of via onze webshop.
