@@ -15,6 +15,8 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button>
 
+![eindejaar menu](/assets/img/eindejaarmenu.jpg)
+
 ## Koud Buffet - €35 p.p.
 
 * Rundscarpaccio
@@ -26,7 +28,7 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 * Mozzarella / tomaat
 * Aardappelsalade / pastasalade / vers brood
 * Quinoa / couscous / groentenassortiment
-_\*+ Dessert uit menu €42 p.p._
+  _\*+ Dessert uit menu €42 p.p._
 
 ## The Chef's choice - MENU 1 - €45 p.p.
 
@@ -41,8 +43,9 @@ _\*+ Dessert uit menu €42 p.p._
 2. Vitello tonnato  
 3. Zeewolf / shiitake / wortel / limoen 
 4. Gebak / chocolade / citroen / framboos
- 
+
 **\*Beide menu’s:**
+
 * _Keuze uit puree, amandelkroketjes of aardappelgratin_
 * _U kan gerust gerechten wisselen tussen de menu’s_
 
@@ -68,23 +71,26 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 * White: Garganega IGT: €13,50
 * Red: Domaine Nicolas Croze 2015: €11,91
 * Red: Querciaville Toscane IGT: €14,08
-_\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
+  _\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
 
 ## Info
 
 **2 Afhaaladressen:**
+
 1. Autres Saveurs by Orecah\
    **@ Cora shopping Anderlecht**
 2. Orecah\
    **@ Geraardsbergsesteenweg 46, Herne**
 
 **Afsluitdatum bestellingen:**
+
 * Kerst 17dec -Nieuwjaar 24dec
 * Bestellingen zijn pas bevestigd na betaling op onderstaand rekeningnummer met vermelding van naam en bestelnummer of via onze webshop.
 * Afhalingen tussen 14u en 18u met bevestigingsmail.
 * Voor alle vragen of info neemt u gerust contact op.
 
 **Gegevens:**
+
 * BTW BE 0589.970.529
 * ING Bank / IBAN: BE19 3630 7239 8012 /  BIC: BBRUBEBB
 * KBC Bank /  IBAN: BE36 7360 3691 0281  / BIC: KREDBEBB
