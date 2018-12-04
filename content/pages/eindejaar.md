@@ -46,7 +46,7 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 3. Zeewolf / shiitake / wortel / limoen 
 4. Gebak / chocolade / citroen / framboos  
 
-**\*Beide menu’s: **
+\*Beide menu’s: 
 
 * _Keuze uit puree, amandelkroketjes of aardappelgratin_
 * _U kan gerust gerechten wisselen tussen de menu’s_
