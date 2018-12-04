@@ -45,9 +45,7 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 2. Vitello tonnato  
 3. Zeewolf / shiitake / wortel / limoen 
 4. Gebak / chocolade / citroen / framboos  
-
-\*Beide menu’s: 
-
+**\*Beide menu’s:**
 * _Keuze uit puree, amandelkroketjes of aardappelgratin_
 * _U kan gerust gerechten wisselen tussen de menu’s_
 
@@ -73,7 +71,6 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 * White: Garganega IGT / €13,50
 * Red: Domaine Nicolas Croze 2015 / €11,91
 * Red: Querciaville Toscane IGT / €14,08
-
 _\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
 
 ## Info
