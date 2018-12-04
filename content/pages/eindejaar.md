@@ -28,7 +28,7 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 * Mozzarella / tomaat
 * Aardappelsalade / pastasalade / vers brood
 * Quinoa / couscous / groentenassortiment\
-  **_\*+ Dessert uit menu €42 p.p._**
+_\*+ Dessert uit menu €42 p.p._
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu </a></button>
 
@@ -44,7 +44,8 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 1. Soep / vergeten groenten / pancetta 
 2. Vitello tonnato  
 3. Zeewolf / shiitake / wortel / limoen 
-4. Gebak / chocolade / citroen / framboos  
+4. Gebak / chocolade / citroen / framboos
+ 
 **\*Beide menu’s:**
 * _Keuze uit puree, amandelkroketjes of aardappelgratin_
 * _U kan gerust gerechten wisselen tussen de menu’s_
