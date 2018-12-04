@@ -28,7 +28,7 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 * Mozzarella / tomaat
 * Aardappelsalade / pastasalade / vers brood
 * Quinoa / couscous / groentenassortiment\
-  **_\*+ Dessert uit menu €42 p.p._**
+  _**\*+ Dessert uit menu €42 p.p.**_
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu </a></button>
 
@@ -55,11 +55,10 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 
 500g Chicken "Nuggetz" +- 14 stuks. Home-made & fresh/frozen
 
-Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten. Vraag feedback bij onze klanten. Alle Orecah-klanten kennen onze lekkere "Nuggetz".
+Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
+ Vraag feedback bij onze klanten. Alle Orecah-klanten kennen onze lekkere "Nuggetz".
 
 "Nuggetz" diepgevroren producten zijn langer houdbaar d.m.v. het invries- & vacuümproces. 
-
-
 
 !!!!!! FOTO NUGGETZ 
 
@@ -78,7 +77,7 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten. Vraag feedback bi
 
 ## Info
 
-**2 Afhaaladressen/**
+**2 Afhaaladressen:**
 
 1. Autres Saveurs by Orecah
    @ Cora shopping Anderlecht
