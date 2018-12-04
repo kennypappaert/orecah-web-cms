@@ -53,12 +53,12 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 
 ## Onze gekende NUGGETZ
 
-500g Chicken "Nuggetz" +- 14 stuks. Home-made & fresh/frozen
+500g Chicken "**Nuggetz**" +/- 14 stuks. Home-made & fresh/frozen
 
 Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
- Vraag feedback bij onze klanten. Alle Orecah-klanten kennen onze lekkere "Nuggetz".
+ Vraag feedback bij onze klanten. Alle Orecah-klanten kennen onze lekkere "**Nuggetz**".
 
-"Nuggetz" diepgevroren producten zijn langer houdbaar d.m.v. het invries- & vacuümproces. 
+"**Nuggetz**" diepgevroren producten zijn langer houdbaar d.m.v. het invries- & vacuümproces. 
 
 ![chicken nuggets](/assets/img/nuggetz.jpg)
 
@@ -86,7 +86,7 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 
 **Afsluitdatum bestellingen: **
 
-* Kerst 17dec - Nieuwjaar 24dec
+* Kerst 17dec -Nieuwjaar 24dec
 * Bestellingen zijn pas bevestigd na betaling op onderstaand rekeningnummer met vermelding van naam en bestelnummer of via onze webshop.
 * Afhalingen tussen 14u en 18u met bevestigingsmail.
 * Voor alle vragen of info neemt u gerust contact op.
