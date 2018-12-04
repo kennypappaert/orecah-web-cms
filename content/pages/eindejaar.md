@@ -97,4 +97,4 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 * Kenny Pappaert - info@orecah.be 
 * 0496 69 48 42 - www.orecah.be
 
- 
+Orecah: When food becomes a passion! 
