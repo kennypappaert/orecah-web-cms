@@ -24,7 +24,7 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 * Zalm gegaard op lage temperatuur
 * Mozzarella / tomaat
 * Aardappelsalade / pastasalade / vers brood
-* Quinoa / couscous / groentenassortiment\
+* Quinoa / couscous / groentenassortiment
 _\*+ Dessert uit menu €42 p.p._
 
 ## The Chef's choice - MENU 1 - €45 p.p.
