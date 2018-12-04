@@ -73,7 +73,8 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 * White: Garganega IGT / €13,50
 * Red: Domaine Nicolas Croze 2015 / €11,91
 * Red: Querciaville Toscane IGT / €14,08
-* \*Exclusief assortiment wijnen verkrijgbaar op aanvraag 
+
+_\*Exclusief assortiment wijnen verkrijgbaar op aanvraag _
 
 ## Info
 
@@ -84,7 +85,7 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 2. Orecah
    @ Geraardsbergsesteenweg 46, Herne
 
-**Afsluitdatum bestellingen: **
+Afsluitdatum bestellingen:
 
 * Kerst 17dec -Nieuwjaar 24dec
 * Bestellingen zijn pas bevestigd na betaling op onderstaand rekeningnummer met vermelding van naam en bestelnummer of via onze webshop.
