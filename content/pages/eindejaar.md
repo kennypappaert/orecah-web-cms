@@ -7,15 +7,12 @@ template: menu
 ---
 # Eindejaar Menu
 
-## by Orecah
-
 **Ontvangt u ook volk op kerst of oudejaar? 🎉**
 
 Maak het uzelf makkelijk en bestel uw menu bij Orecah. 
 
 🍽️ Hapjes, voorgerecht en dessert zijn klaar om op te dienen. Soep en hoofdgerecht dienen enkel eventjes opgewarmd te worden. Schuif je benen onder tafel en geniet samen met je gasten. Santé!🥂
-
-**!!!!!!!!HIER KOMT FOTO VAN EINDEJAARSMENU **
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button>
 
 ## Koud Buffet - €35 p.p.
 
@@ -29,8 +26,6 @@ Maak het uzelf makkelijk en bestel uw menu bij Orecah.
 * Aardappelsalade / pastasalade / vers brood
 * Quinoa / couscous / groentenassortiment\
 _\*+ Dessert uit menu €42 p.p._
-
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu </a></button>
 
 ## The Chef's choice - MENU 1 - €45 p.p.
 
