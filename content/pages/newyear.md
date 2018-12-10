@@ -21,7 +21,7 @@ Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het n
 
 **RESERVEREN is verplicht**
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Tickets Kopen</a></button>
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=NewYear&page.itemsPerPage=50&xlId=NL">Tickets Kopen</a></button>
 
 ![fluid](/assets/img/22-april_gala-avond_dsc2655.jpg)
 
