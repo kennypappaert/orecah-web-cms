@@ -1,6 +1,6 @@
 ---
 name: After Work Party
-title: After Work Party!
+title: After Work Party
 live: 'true'
 path: /studioeuropa
 template: event
