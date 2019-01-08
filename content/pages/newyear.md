@@ -1,62 +1,51 @@
 ---
-name: New Year Eve
-title: New Year Eve Party
+name: After Work Party!
+title: After Work Party!
 live: 'true'
 path: /studioeuropa
 template: event
 ---
-# New Years Eve Party
+# After Work Party! 
 
-## by Orecah & Studio Europa
+## by Studio Europa & Orecah
 
-**Op oudejaarsavond kan u bij Studio Europa het huidige jaar heerlijk afsluiten, en het nieuwe jaar starten met een absolute topparty! **
+**Samen met je collega’s, vrienden of zelfs samen met je baas de werkweek afsluiten met een gezellig avondje uit!**
 
-## DINNER & PARTY - €89 p.p.
+## Food-Fashion-Party
 
-Samen met uw vrienden en/of familie verwelkomen wij u graag om 18u met een lekker aperitief. Jullie worden verwend met verfijnde voorgerechtjes om het heerlijke diner te starten. 
-Vervolgens nodigen wij u met plezier uit aan het uitgebreide hoofdgerechtenbuffet. Onze chef-kok en zijn team zorgen er voor dat jullie naar hartelust kunnen genieten van de meest heerlijke en smaakvolle gerechten. 
-Nadien zal de muziek al wat luider gaan voor wie niet meer kan stilzitten. Maar na het heerlijke dessert zal de party echt helemaal los barsten!
+Samen met uw collega’s, vrienden of zelfs samen met je baas de werkweek afsluiten met een gezellig avondje uit! Tijdens de After Work Party bij Studio Europa combineren we FOOD - FASHION & PARTY! Terwijl u geniet van een lekker gerechtje dat u wordt aangeboden naar keuze, kunt u uw ogen de kost geven aan de modellen die de catwalk zullen innemen. De meest trendy en modieuze kledij voor zowel jong als minder jong, voor dames en heren
 
-Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het nieuwe jaar. 
-
-**RESERVEREN is verplicht**
+**RESERVEREN is aan te raden**
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=NewYear&page.itemsPerPage=50&xlId=NL">Tickets Kopen</a></button>
 
 ![fluid](/assets/img/22-april_gala-avond_dsc2655.jpg)
 
-## ENKEL PARTY - €15 p.p.
+## In samenwerking met:
 
-Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 22u30.\
-Om middernacht wordt u ook een glas champagne aangeboden om te proosten op het nieuwe jaar.\
-(Geen reservatie nodig) 
+* Shoe Time: Een heel trendy en modieuze dameskledingzaak in Lierde. Hier moet je als vrouw zeker eens langsgaan. 
+* Lupo Store: Dé mannenkledigzaak bij uitstek in hartje Brakel. Deze zaak biedt zijn klanten de meest modieuze en hedendaagse kledij aan
+* Goed nieuws: alle aanwezigen ontvangen een exclusieve kortingsbon voor deze twee mode zaken! 
 
-## NEW YEAR’S VIP Silver  - €185
+## INKOM: (inclusief gerecht)
 
-* 1 VIP statafel
-* 4 tot 6 entrees
-* 1 fles champagne
-* fingerfood
-* **RESERVEREN is verplicht**
-
-## NEW YEAR’S VIP Golden  - €275
-
-* 1 VIP statafel
-* 6 tot 8 entrees
-* 2 flessen champagne of
-  1 fles spirit met 10 softs naar keuze
-* fingerfood 
-* **RESERVEREN is verplicht**
+* €15 in voorverkoop. Tickets te verkrijgen bij Studio Europa, Shoe Time en Lupo Store. 
+  Of natuurlijk online op deze pagina 
+* €90 Groepsticket: spreek samen af met collega’s of vrienden, en koop een groepsticket voor 6 personen. U krijgt er gratis een fles cava bovenop! (Enkel online)
+* €18 aan de kassa.
 
 ## Muziek
 
-Onze 2 dj’s zijn beiden toppers in hun vak en zullen jullie laten dansen en entertainen tot in de vroege uurtjes! 
+Onze dj is een topper in zijn vak en zal jullie laten dansen en entertainen tot in de vroege uurtjes! 
 
 * 🎧 Dj Da Pierre (bekend van Studio 54 & Funky Antwerp)
-* 🎧 Dj Daddy Cool (bekend van de Midlifeparty & Radio M fm)
 
 Ambiance verzekerd! 
 
-Voor het dinner werken wij samen met Orecah. Jullie smaakpapillen zullen worden verwend, want Orecah staat bekend voor hun exclusieve catering waar smaak primeert, maar mét oog voor detail op het bord. Ze toveren de meest lekkere en verfijnde gerechten op tafel.
+Deuren gaan open om 18u waarbij u heerlijke gerechten worden aangeboden aan de foodstand van Orecah tot 20u. Daarna is het feesten tot 2u! 
 
-![null](/assets/img/41095663_326575874781101_6980372392115699712_n.jpg)
+
+
+See you @Studio Europa 
+
+![null](/assets/img/untitled-7.jpg)
