@@ -1,11 +1,11 @@
 ---
-name: After Work Party!
+name: After Work Party
 title: After Work Party!
 live: 'true'
 path: /studioeuropa
 template: event
 ---
-# After Work Party! 
+# After Work Party!
 
 ## by Studio Europa & Orecah
 
@@ -43,8 +43,6 @@ Onze dj is een topper in zijn vak en zal jullie laten dansen en entertainen tot 
 Ambiance verzekerd! 
 
 Deuren gaan open om 18u waarbij u heerlijke gerechten worden aangeboden aan de foodstand van Orecah tot 20u. Daarna is het feesten tot 2u! 
-
-
 
 See you @Studio Europa 
 
