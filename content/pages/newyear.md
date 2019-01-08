@@ -17,7 +17,7 @@ Samen met uw collega’s, vrienden of zelfs samen met je baas de werkweek afslui
 
 **RESERVEREN is aan te raden**
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=NewYear&page.itemsPerPage=50&xlId=NL">Tickets Kopen</a></button>
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=StudioEuropa&page.itemsPerPage=50&xlId=NL">Tickets Kopen</a></button>
 
 ![fluid](/assets/img/22-april_gala-avond_dsc2655.jpg)
 
