@@ -2,7 +2,7 @@
 name: Events en webshop
 title: 'Events en webshop '
 live: 'true'
-path: /eindejaar-menu
+path: /event
 template: menu
 ---
 # \-Events-
