@@ -25,7 +25,7 @@ Waar is uw geliefde liever dan in een prachtig kader op valentijn?
 
 Verrassende hapjes, verzorgde culinaire gerechtjes, aangepaste dranken en wijnen, een sfeervolle setting... kortom alles om een geslaagde romantische avond te beleven met uw partner, familieleden of vrienden.
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Reserveer uw plaatsen</a></button>
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=events&page.itemsPerPage=50&xlId=NL">Reserveer uw plaatsen</a></button>
 
 ![eindejaar menu](/assets/img/eindejaarmenu.jpg)
 
@@ -46,7 +46,7 @@ Verrassende hapjes, verzorgde culinaire gerechtjes, aangepaste dranken en wijnen
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button>
 
-## Onze gekende NUGGETZ 
+## Onze gekende NUGGETZ
 
 500g Chicken "**Nuggetz**" +/- 14 stuks. Home-made & fresh/frozen
 
@@ -55,7 +55,7 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 
 "**Nuggetz**" diepgevroren producten zijn langer houdbaar d.m.v. het invries- & vacuümproces. 
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Nuggetz</a></button>
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel uw Nuggetz</a></button>
 
 ![chicken nuggets](/assets/img/nuggetz.jpg)
 
@@ -72,7 +72,7 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 * Red: Querciaville Toscane IGT: €14,08
   _\*Exclusief assortiment wijnen verkrijgbaar op aanvraag_
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw pleziertjes</a></button>
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel uw pleziertjes</a></button>
 
 ## Info
 
