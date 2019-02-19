@@ -21,6 +21,8 @@ Extra pluspunt:Alle wijnen zullen u worden aangeboden aan winkelprijzen.
 
 Menu komt zeer binnenkort online. 
 
+Toegang en uitgebreid culinair menu: €69 per persoon
+
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=events&page.itemsPerPage=50&xlId=NL">Reserveer uw plaatsen</a></button>
 
 ![eindejaar menu](/assets/img/eindejaarmenu.jpg)
