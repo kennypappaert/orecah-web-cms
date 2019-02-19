@@ -11,7 +11,7 @@ template: menu
 
 **9/03/2019 / 19u** 
 
-> "Geniet van elke dag, het leven is te kort om slechte wijn te drinken of minder lekker te eten" | by Orecah
+> "Geniet van elke dag, het leven is te kort om slechte wijn te drinken of minder lekker te eten" | quote by Orecah
 
 Na een geslaagde valentijns-editie @Flavor Shop te Gooik stellen wij jullie graag ons nieuw Pop-up restaurant voor. Omdat er niet altijd een reden moet zijn om van het leven en lekker eten te genieten nodigen wij jullie graag uit op 9 maart in de prachtige showroom van Interieur Van der Waerden te Denderleeuw.
 
