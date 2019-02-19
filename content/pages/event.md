@@ -1,29 +1,25 @@
 ---
 name: Events
-title: 'Events'
+title: Events
 live: 'true'
 path: /event
 template: menu
 ---
 # Events
 
-## Pop-up restaurant "Valentine edition" @Flavor Shop
+## Pop-up restaurant @Interieur Van Der Waerden 
 
-**14/02/2019 / 19u **
+**9/03/2019 / 19u** 
 
-**❤️Nodig je geliefde en/of je familie en vrienden uit voor een gezellig en romantisch diner❤️**
+> "Geniet van elke dag, het leven is te kort om slechte wijn te drinken of minder lekker te eten" | by Orecah
 
-Maak het uzelf makkelijk en boek bij Orecah. 
+Na een geslaagde valentijns-editie @Flavor Shop te Gooik stellen wij jullie graag ons nieuw Pop-up restaurant voor. Omdat er niet altijd een reden moet zijn om van het leven en lekker eten te genieten nodigen wij jullie graag uit op 9 maart in de prachtige showroom van Interieur Van der Waerden te Denderleeuw.
 
-💑🍽️Al een verrassing voorzien voor uw Valentijn? 
+Verrassende hapjes, verzorgde culinaire gerechten, een uitgebreid assortiment wijnen geselecteerd door sommelier Gunther De Grom van INNOVINO  & een sfeervolle setting... kortom alles om een geslaagde avond te beleven met uw partner, familieleden of vrienden. 
 
-Dit event is uw kans om goede punten te scoren bij uw geliefde. 
+Extra pluspunt:Alle wijnen zullen u worden aangeboden aan winkelprijzen.
 
-Een romantisch en exclusief diner.
-
-Waar is uw geliefde liever dan in een prachtig kader op valentijn? 
-
-Verrassende hapjes, verzorgde culinaire gerechtjes, aangepaste dranken en wijnen, een sfeervolle setting... kortom alles om een geslaagde romantische avond te beleven met uw partner, familieleden of vrienden.
+Menu komt zeer binnenkort online. 
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=events&page.itemsPerPage=50&xlId=NL">Reserveer uw plaatsen</a></button>
 
