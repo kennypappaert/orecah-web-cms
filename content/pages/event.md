@@ -20,17 +20,17 @@ Na een paar geslaagde edities @Lingerie Immagine te Lennik, @Electro Service Tim
 
 Verrassende hapjes, verzorgde culinaire gerechten, een uitgebreid assortiment wijnen geselecteerd door Vinea & een sfeervolle setting... kortom alles om een geslaagde avond te beleven met uw partner, familieleden of vrienden.
 
-##### Pluspunt:
+### Pluspunt:
 Alle wijnen die u op de Vinea beurs kan degusteren zullen beschikbaar zijn om in ons pop-up restaurant te bestellen.
 
-##### Ticket:
+### Ticket:
 Toegang en uitgebreid culinair menu: €61 per persoon<br>
 Dit ticket geeft u recht op een drie-gangendiner (exclusief dranken) vooraf gegaan door drie verfijnde hapjes. 
 
-##### Menu:<br>
+### Menu:<br>
 Komt zeer binnenkort online. 
 
-##### Gelegenheidsadres:
+### Gelegenheidsadres:
 Hof te Spieringen, Langestraat 42, 1570 Vollezele
 
 Wij kijken er naar uit u te mogen ontvangen.
