@@ -7,7 +7,9 @@ template: menu
 ---
 # Events
 
-## POP-UP RESTAURANT @IVinea Zomerhappening / Hof te Spieringen
+## POP-UP RESTAURANT
+
+## @IVinea Zomerhappening / Hof te Spieringen
 
 * **14/06/2019 / 18u**
 * **14/06/2019 / 20u30**
