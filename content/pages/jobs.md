@@ -3,6 +3,6 @@ name: Orecah | Jobs
 title: Jobs
 live: true
 path: /jobs
-template: video
+template: home
 ---
 NOPE, Not here!
