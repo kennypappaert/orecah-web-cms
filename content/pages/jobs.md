@@ -7,7 +7,7 @@ template: jobs
 ---
 # Openstaande vacatures
 
-> Op een dag vind je de Orecah-job van je leven! 
+**_Op een dag vind je de Orecah-job van je leven!_** 
 
 ## Functie: Keukenchef / Chef-kok
 
