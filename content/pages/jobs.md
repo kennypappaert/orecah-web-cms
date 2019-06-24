@@ -3,13 +3,13 @@ name: Orecah | Jobs
 title: Jobs
 live: true
 path: /jobs
-template: home
+template: event
 ---
 # Openstaande vacatures
 
 > Op een dag vind je de Orecah-job van je leven! 
 
-# Functie: Keukenchef / Chef-kok
+## Functie: Keukenchef / Chef-kok
 
 Orecah is op zoek naar een voltijdse TOPchef om ons team culinair te komen versterken.
 
@@ -17,7 +17,7 @@ Als chef bij Orecah sta je in je voor de dagelijkse leiding over het keuken- en 
 
 We bieden een uitdagende carrière met veel afwisseling in een zeer jonge, professionele en dynamische omgeving.  Je zal een belangrijk aanspreekpunt zijn voor de keuken en zaal medewerkers. Dankzij je ervaring zal je snel kunnen inspelen op de uitdagingen die de cateringwereld elke dag opnieuw op ons laat afkomen. 
 
-**Functieomschrijving:**
+### Functieomschrijving:
 
 * Leiding over de keuken.
 * Medewerkers aansturen, motiveren, stimuleren en corrigeren waar nodig
@@ -28,7 +28,7 @@ We bieden een uitdagende carrière met veel afwisseling in een zeer jonge, profe
 * Commerciële ondersteuning, kostenbewust werken en efficiëntie optimaliseren     
 * U bent creatief in het zoeken, uitwerken en voorstellen van nieuwe bereidingen, gerechten en presentaties
 
- **Welk profiel zoeken we bij Orecah:**
+### Welk profiel zoeken we bij Orecah:
 
 * Het spreekt voor zich dat koken uw passie is!
 * Je hebt een hotelopleiding of gelijkgesteld door relevante ervaring
@@ -41,7 +41,7 @@ We bieden een uitdagende carrière met veel afwisseling in een zeer jonge, profe
 * Je bent PC-vaardig
 * Je bent stressbestendig, betrouwbaar en flexibel
 
-**Wat wij jou bieden:**
+### Wat wij jou bieden:
 
 * Een vast fulltime contract
 * Concurrentiële verloning volgens vaardigheden en ervaring
@@ -51,7 +51,7 @@ We bieden een uitdagende carrière met veel afwisseling in een zeer jonge, profe
 * Persoonlijke en professionele ontwikkeling aan de hand van opleidingen en ervaringen
 * Waardering voor je inzet van collega’s, manager, maar zeker ook van de klanten
 
-**SPONTAAN SOLLICITEREN?**
+## SPONTAAN SOLLICITEREN?
 
 Expert in de keuken, een kei in organiseren, een TOPchef of een cunilaire duizendpoot, ...? Kortom, ben jij ervan overtuigd dat jij een waardevolle aanvulling bent voor het Orecah-team? Neem dan snel contact met ons op, vertel ons waarom jij de geknipte persoon bent om ons team te komen versterken en we nodigen je graag uit om kennis te maken! 
 
