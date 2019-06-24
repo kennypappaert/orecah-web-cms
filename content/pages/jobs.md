@@ -7,7 +7,7 @@ template: jobs
 ---
 # Openstaande vacatures
 
-**_Op een dag vind je de Orecah-job van je leven!_** 
+_**Op een dag vind je de Orecah-job van je leven!**_ 
 
 ## Functie: Keukenchef / Chef-kok
 
@@ -50,6 +50,8 @@ We bieden een uitdagende carrière met veel afwisseling in een zeer jonge, profe
 * Een jong, leuk en dynamisch team om mee samen te werken
 * Persoonlijke en professionele ontwikkeling aan de hand van opleidingen en ervaringen
 * Waardering voor je inzet van collega’s, manager, maar zeker ook van de klanten
+
+![](/assets/img/dreseren.jpg)
 
 ## SPONTAAN SOLLICITEREN?
 
