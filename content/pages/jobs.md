@@ -13,6 +13,8 @@ template: jobs
 
 Orecah is op zoek naar een voltijdse TOPchef om ons team culinair te komen versterken.
 
+<p><iframe width="100%" height="405" src="https://www.youtube.com/embed/Ac4yUUtu_sA" frameborder="0"encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 Als chef bij Orecah sta je in je voor de dagelijkse leiding over het keuken- en evenemententeam, je creëert nieuwe innovatieve gerechten en in samenwerking met de daily manager plaats je bestellingen en zorg je voor een TOP beleving bij onze klanten. 
 
 We bieden een uitdagende carrière met veel afwisseling in een zeer jonge, professionele en dynamische omgeving.  Je zal een belangrijk aanspreekpunt zijn voor de keuken en zaal medewerkers. Dankzij je ervaring zal je snel kunnen inspelen op de uitdagingen die de cateringwereld elke dag opnieuw op ons laat afkomen. 
@@ -60,5 +62,3 @@ Expert in de keuken, een kei in organiseren, een TOPchef of een cunilaire duizen
 Stuur  je CV (voorzien van een recente foto), een korte video en je motivatie naar job@orecah.be en we nemen zo snel mogelijk contact met je op!
 
 We behandelen jouw ingezonden CV met zorg en discretie.
-
-<p><iframe width="100%" height="405" src="https://www.youtube.com/embed/Ac4yUUtu_sA" frameborder="0"encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
