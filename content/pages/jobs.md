@@ -44,14 +44,17 @@ We bieden een uitdagende carrière met veel afwisseling in een zeer jonge, profe
 **Wat wij jou bieden:**
 
 * Een vast fulltime contract
-* Loon volgens vaardigheden en ervaring
+* Concurrentiële verloning volgens vaardigheden en ervaring
 * Een toplocatie om in te werken
 * Een zeer gevarieerde en uitdagende job
 * Een jong, leuk en dynamisch team om mee samen te werken
 * Persoonlijke en professionele ontwikkeling aan de hand van opleidingen en ervaringen
+* Waardering voor je inzet van collega’s, manager, maar zeker ook van de klanten
 
 **SPONTAAN SOLLICITEREN?**
 
 Expert in de keuken, een kei in organiseren, een TOPchef of een cunilaire duizendpoot, ...? Kortom, ben jij ervan overtuigd dat jij een waardevolle aanvulling bent voor het Orecah-team? Neem dan snel contact met ons op, vertel ons waarom jij de geknipte persoon bent om ons team te komen versterken en we nodigen je graag uit om kennis te maken! 
 
 Stuur  je CV (voorzien van een recente foto), een korte video en je motivatie naar job@orecah.be en we nemen zo snel mogelijk contact met je op!
+
+We behandelen jouw ingezonden CV met zorg en discretie.
