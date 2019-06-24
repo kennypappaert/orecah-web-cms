@@ -61,4 +61,4 @@ Stuur  je CV (voorzien van een recente foto), een korte video en je motivatie na
 
 We behandelen jouw ingezonden CV met zorg en discretie.
 
-<iframe width="100%" height="405" src="https://www.youtube.com/embed/Ac4yUUtu_sA" frameborder="0"encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="100%" height="405" src="https://www.youtube.com/embed/Ac4yUUtu_sA" frameborder="0"encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
