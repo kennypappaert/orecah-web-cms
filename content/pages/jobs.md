@@ -3,7 +3,7 @@ name: Orecah | Jobs
 title: Jobs
 live: true
 path: /jobs
-template: home
+template: jobs
 ---
 # Openstaande vacatures
 
