@@ -60,4 +60,7 @@ Expert in de keuken, een kei in organiseren, een TOPchef of een cunilaire duizen
 Stuur  je CV (voorzien van een recente foto), een korte video en je motivatie naar job@orecah.be en we nemen zo snel mogelijk contact met je op!
 
 We behandelen jouw ingezonden CV met zorg en discretie.
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/6Ce8rvLooRc?autoplay=0&fs=1&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&vq=hd720"></iframe>
+
+<video controls="true">
+    <source src="www.youtube.com/watch?v=6Ce8rvLooRc" type="video/mp4" />
+</video>
