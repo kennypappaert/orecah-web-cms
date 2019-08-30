@@ -37,7 +37,7 @@ Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 22u30
 
 ![fluid](/assets/img/22-april_gala-avond_dsc2655.jpg)
 
-## NEW YEAR’S EVE VIPS 
+## NEW YEAR’S EVE VIPS
 
 Graag dát tikkeltje extra op oudejaar? Boek dan uw VIP tafel op www.studioeuropa.orecah.be en wees samen met uw vrienden zeker van de beste plaatsen. Wij bieden u 2 verschillende VIP-formules aan: 
 
@@ -52,7 +52,8 @@ NEW YEAR’S VIP GOLD  €280
 
 * 1 VIP statafel
 * 8 entrees
-* 2 flessen champagne Laurent Perrier of 1 fles spirit met 10 softs naar keuze.
+* 2 flessen champagne Laurent Perrier of
+  1 fles spirit met 10 softs naar keuze.
 * fingerfood 
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=StudioEuropa&page.itemsPerPage=50&xlId=NL">Tickets Kopen</a></button>
@@ -70,8 +71,6 @@ Ambiance verzekerd!
 
 📞 0472/32 50 37
 
-
-
 See you @Studio Europa 
 
-![null](/assets/img/69064421_3081184908589307_4122884998879510528_n.png)
+![](/assets/img/69064421_3081184908589307_4122884998879510528_n.png)
