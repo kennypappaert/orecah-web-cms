@@ -9,13 +9,13 @@ template: event
 
 ## by Studio Europa & Orecah
 
-**Samen met je collega’s, vrienden of zelfs samen met je baas de werkweek afsluiten met een gezellig avondje uit!**
+**Op oudejaarsavond kan u bij Studio Europa het huidige jaar heerlijk afsluiten, en het nieuwe jaar starten met een absolute topparty!**
 
 ## FORMULE 1: DINNER & PARTY - €95 p.p.
 
 Samen met uw vrienden en/of familie verwelkomen wij u graag om 18u met een lekker aperitief. Jullie worden verwend met verfijnde hapjes om het heerlijke dinner te starten. 
 
-Vervolgens nodigen wij u met plezier uit aan het uitgebreide voorgerechtenbuffet. Onze chef-kok en zijn team zorgen er voor dat jullie naar hartelust kunnen genieten van de meest heerlijke en smaakvolle gerechten. Er is voor ieder wat wils, en à volonté! 
+Vervolgens nodigen wij u met plezier uit aan het uitgebreide voorgerechtenbuffet. Onze chef-kok en zijn team zorgen er voor dat jullie naar hartenlust kunnen genieten van de meest heerlijke en smaakvolle gerechten. Er is voor ieder wat wils, en à volonté! 
 
 Na het voorgerechtenbuffet wordt het hoofdgerecht met zorg bereid en geserveerd aan tafel.
 
@@ -29,7 +29,7 @@ Om middernacht wordt u nog een glas champagne aangeboden om te proosten op het n
 
 ## FORMULE 2: ENKEL PARTY - €15 p.p.
 
-Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 22u30
+Mensen die graag enkel komen feesten zijn natuurlijk ook zeer welkom vanaf 23u.
 
 **RESERVEREN is niet verplicht voor enkel de party**
 
