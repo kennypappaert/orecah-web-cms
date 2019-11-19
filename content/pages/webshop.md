@@ -39,6 +39,8 @@ Nieuwjaar 25dec / Bestellingen kunnen online geplaatst worden op Orecah.be
 
 Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info neemt u gerust contact op.
 
+![](/assets/img/template-eindejaar-for-web.jpg "Folder eindejaar")
+
 ## Koud Buffet - €35 p.p. (altijd beschikbaar)
 
 * Rundscarpaccio
