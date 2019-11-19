@@ -19,6 +19,20 @@ We hebben al verschillende stadia doorlopen en blijven ons inzetten om onze crea
 Begin 2015 nam Orecah een sandwichbar/tearoom over in een shoppingcentrum in Brussel. In 2017 namen wij Max Boterhammen over. Dit is een Leveringsdienst van broodjes aan bedrijven.
 In 2018 zijn wij gestart met E-lunch.be, hierbij leveren wij verse dagschotels aan huis.
 
+In 2019 openden we 2 restaurants: 
+
+* T’Rest B&B - Bistronomy - Events 
+
+Samen met Yvan en Maité realiseerden we een mooi project in Kasteel Ter Rijst te Heikruis.  Ook de volledige administratie van onze catering verhuisde naar deze locatie. In Oktober 2019 opende T'Rest de deuren, kom gerust eens langs om te ontdekken wat we hier te bieden hebben.
+
+<button class="center"><a href="http://t-rest.be/">Website T'Rest</a></button>
+
+* Bistr’Oh Halle 
+
+In November 2019 openden we Bistr'Oh Halle. Bistr’Oh Halle is een toegankelijke Bistro / Tea-room in “Residentie Asteria”. Je kan hier terecht voor zowel lunch, diner, koffie met taart of pannenkoeken maar ook om gezellig iets te komen drinken in de namiddag. Geen zin/tijd om zelf te koken? Ook afhaalmaaltijden kan je vinden in Bistr’Oh Halle. Met Bistr’Oh Halle willen we een gezellige ontmoetingsplaats creëren in het hart van Elisa-Park te Sint-Rochus.
+
+<button class="center"><a href="https://bistroh-halle.business.site/?utm_source=gmb&utm_medium=referral">Overzichtpagina Bistr'Oh Halle</a></button>
+
 Onze leuze "When food becomes a passion" is bij ons geen vage slogan, het is een dagelijkse vaststelling.
 
 Danku voor het vertrouwen in Orecah.
