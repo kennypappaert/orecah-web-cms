@@ -13,7 +13,6 @@ template: menu
 >
 > \
 >
->
 > <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button>
 
 ## The Chef's choice - MENU 1 - €45 p.p.
@@ -34,7 +33,9 @@ template: menu
 
 \*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
 
-Afsluitdatum bestellingen: Kerst 18dec - Nieuwjaar 25dec / Bestellingen kunnen online geplaatst worden op Orecah.be
+Afsluitdatum bestellingen: Kerst 18dec - 
+
+Nieuwjaar 25dec / Bestellingen kunnen online geplaatst worden op Orecah.be
 
 Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info neemt u gerust contact op.
 
