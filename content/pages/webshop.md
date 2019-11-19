@@ -1,11 +1,42 @@
 ---
-name: Webshop
-title: 'Webshop'
+name: Eindejaar
+title: Eindejaar
 live: 'true'
 path: /webshop
 template: menu
 ---
 # Webshop
+
+## Eindejaar Menu
+
+> Ontvangt u ook volk op kerst of oudejaar? 🎉Maak het uzelf makkelijk en bestel uw menu bij Orecah. 🍽️ Hapjes, voorgerecht en dessert zijn klaar om op te dienen. Soep en hoofdgerecht dienen enkel eventjes opgewarmd te worden. Schuif je benen onder tafel en geniet samen met je gasten. Santé!🥂
+>
+> \
+>
+>
+> <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button>
+
+## The Chef's choice - MENU 1 - €45 p.p.
+
+* Carpaccio van hert / zwarte pens / knolselder
+* Soep / curry / langoustine
+* Kabeljauw / erwt / prei / venkel 
+* Dulce de leche (caramel) / Valrhona chocolade / pecan 
+
+\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
+
+## Sous-chef's choice - MENU 2 - €45 p.p.
+
+* Confijt van tonijn / mais /  hummus
+* Soep / aardpeer / truffel
+* Pluma Iberico / wortel / courgette  
+* Dulce de leche (caramel) / Valrhona chocolade / pecan
+
+\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
+
+Afsluitdatum bestellingen: Kerst 18dec - Nieuwjaar 25dec / Bestellingen kunnen online geplaatst worden op Orecah.be
+
+Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info neemt u gerust contact op.
 
 ## Koud Buffet - €35 p.p. (altijd beschikbaar)
 
@@ -54,10 +85,10 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 
 ### 2 Afhaaladressen:
 
-1. Autres Saveurs by Orecah\
-   **@ Cora shopping Anderlecht**
-2. Orecah\
-   **@ Geraardsbergsesteenweg 46, Herne**
+1. Orecah / T'Rest \
+   **@ Kasteel Ter Rijst - Terrest 2, 1670 Heikruis**
+2. Bistr'Oh Halle\
+   **@ Residentie Asteria - Werlstraat 2, 1500 Halle**
 
 ### Bestellingen:
 
@@ -70,4 +101,4 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.
 * ING Bank / IBAN: BE19 3630 7239 8012 /  BIC: BBRUBEBB
 * KBC Bank /  IBAN: BE36 7360 3691 0281  / BIC: KREDBEBB
 * Kenny Pappaert - info@orecah.be 
-* 0496 69 48 42 - www.orecah.be
+* 053 89 35 20  - www.orecah.be
