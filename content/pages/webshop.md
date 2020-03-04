@@ -7,7 +7,7 @@ template: menu
 ---
 # Webshop
 
-## Eindejaar Menu
+<!---## Eindejaar Menu
 
 > Ontvangt u ook volk op kerst of oudejaar? 🎉Maak het uzelf makkelijk en bestel uw menu bij Orecah. 🍽️ Hapjes, voorgerecht en dessert zijn klaar om op te dienen. Soep en hoofdgerecht dienen enkel eventjes opgewarmd te worden. Schuif je benen onder tafel en geniet samen met je gasten. Santé!🥂
 >
@@ -55,7 +55,7 @@ Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info ne
   _\*+ Dessertbord €42 p.p._
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button>
-
+-->
 ## Onze gekende NUGGETZ
 
 500g Chicken "**Nuggetz**" +/- 14 stuks. Home-made & fresh/frozen
