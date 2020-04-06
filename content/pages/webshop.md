@@ -60,7 +60,7 @@ Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurantge
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></button>
 
-![](assets/img/92159605_262248684934397_4493186706794610688_n-min.sliced.png "paasmenu foto")
+![](/assets/img/92159605_262248684934397_4493186706794610688_n-min.sliced.png "paasmenu foto")
 
 ## Paasmenu 1 - €50 p.p.
 
