@@ -80,8 +80,7 @@ Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurant g
 
 \* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
 
-Afsluitdatum bestellingen: 9 april
-
+### Afsluitdatum bestellingen: 9 april
 Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op de leveringsdag voor 12u geleverd. Gelieve rekening te houden dat er een leveringskost is van 1 euro per kilometer vanuit Kasteel ter Rijst te Heikruis.
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></button>
