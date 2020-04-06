@@ -58,7 +58,7 @@ Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info ne
 
 Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurant gevoel bij je thuis! Maak het jezelf makkelijk en bestel uw menu bij Orecah. 🍽️ Koude gerechten zijn klaar om op te dienen. Warme gerechten gerecht dienen enkel eventjes opgewarmd en gedresseerd te worden aan van ons stappenplan . Schuif je benen onder tafel en geniet met je naasten!. Santé!! 🥂
 
-<button class="center"><a href="<https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL>">Bestel uw Paasmenu</a></button>
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></button>
 
 ![](assets/img/92159605_262248684934397_4493186706794610688_n-min.sliced.png "paasmenu foto")
 
