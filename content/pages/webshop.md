@@ -62,7 +62,7 @@ Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurant g
 
 ![](assets/img/92159605_262248684934397_4493186706794610688_n-min.png "paasmenu foto")
 
-## Paasmenu 1 - €47 p.p.
+## Paasmenu 1 - €50 p.p.
 
 * Hapjes
 * Voorgerecht: Asperge / a la Flamande / gepocheerd ei
@@ -71,7 +71,7 @@ Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurant g
 
 \* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
 
-## Paasmenu 2 - €47 p.p.
+## Paasmenu 2 - €50 p.p.
 
 * Hapjes
 * Voorgerecht: Vitello Tonnato
