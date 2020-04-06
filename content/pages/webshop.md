@@ -118,13 +118,13 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.  Vraag feedback bi
 
 ## Info
 
-### 2 Afhaaladressen:
+<!-- ### 2 Afhaaladressen:
 
 1. Orecah / T'Rest \
    **@ Kasteel Ter Rijst - Terrest 2, 1670 Heikruis**
 2. Bistr'Oh Halle\
    **@ Residentie Asteria - Werlstraat 2, 1500 Halle**
-
+-->
 ### Bestellingen:
 
 * Bestellingen zijn pas bevestigd na betaling op onderstaand rekeningnummer met vermelding van naam en bestelnummer of via onze webshop.
