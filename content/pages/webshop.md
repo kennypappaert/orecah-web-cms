@@ -15,21 +15,21 @@ Ontvangt u ook volk op kerst of oudejaar? 🎉Maak het uzelf makkelijk en bestel
 
 ## The Chef's choice - MENU 1 - €45 p.p.
 
-\* Carpaccio van hert / zwarte pens / knolselder
-\* Soep / curry / langoustine
-\* Kabeljauw / erwt / prei / venkel 
-\* Dulce de leche (caramel) / Valrhona chocolade / pecan 
+\\* Carpaccio van hert / zwarte pens / knolselder
+\\* Soep / curry / langoustine
+\\* Kabeljauw / erwt / prei / venkel 
+\\* Dulce de leche (caramel) / Valrhona chocolade / pecan 
 
-\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
+\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
 
 ## Sous-chef's choice - MENU 2 - €45 p.p.
 
-\* Confijt van tonijn / mais /  hummus
-\* Soep / aardpeer / truffel
-\* Pluma Iberico / wortel / courgette  
-\* Dulce de leche (caramel) / Valrhona chocolade / pecan
+\\* Confijt van tonijn / mais /  hummus
+\\* Soep / aardpeer / truffel
+\\* Pluma Iberico / wortel / courgette  
+\\* Dulce de leche (caramel) / Valrhona chocolade / pecan
 
-\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
+\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
 
 Afsluitdatum bestellingen: Kerst 18dec - 
 
@@ -37,20 +37,20 @@ Nieuwjaar 25dec / Bestellingen kunnen online geplaatst worden op Orecah.be
 
 Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info neemt u gerust contact op.
 
-!\\[](/assets/img/template-eindejaar-for-web.jpg "Folder eindejaar")
+!\\\[](/assets/img/template-eindejaar-for-web.jpg "Folder eindejaar")
 
 ## Koud Buffet - €35 p.p. (altijd beschikbaar)
 
-\* Rundscarpaccio
-\* Kip / Ananas / Zout-Zuur
-\* Meloen / Ham
-\* Carpaccio van tonijn
-\* Vitello tonnato
-\* Zalm gegaard op lage temperatuur
-\* Mozzarella / tomaat
-\* Aardappelsalade / pastasalade / vers brood
-\* Quinoa / couscous / groentenassortiment
-\*+ Dessertbord €42 p.p.
+\\* Rundscarpaccio
+\\* Kip / Ananas / Zout-Zuur
+\\* Meloen / Ham
+\\* Carpaccio van tonijn
+\\* Vitello tonnato
+\\* Zalm gegaard op lage temperatuur
+\\* Mozzarella / tomaat
+\\* Aardappelsalade / pastasalade / vers brood
+\\* Quinoa / couscous / groentenassortiment
+\\*+ Dessertbord €42 p.p.
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button> -->
 
@@ -60,7 +60,7 @@ Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurant g
 
 <button class="center"><a href="<https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL>">Bestel uw Paasmenu</a></button>
 
-![](assets/img/92159605_262248684934397_4493186706794610688_n-min.png "paasmenu foto")
+![](assets/img/92159605_262248684934397_4493186706794610688_n-min.sliced.png "paasmenu foto")
 
 ## Paasmenu 1 - €50 p.p.
 
@@ -82,8 +82,7 @@ Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurant g
 
 Afsluitdatum bestellingen: 9 april
 
-Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op de leveringsdag voor 12u geleverd.
-Gelieve rekening te houden dat er een leveringskost is van 1 euro per kilometer vanuit Kasteel ter Rijst te Heikruis.
+Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op de leveringsdag voor 12u geleverd. Gelieve rekening te houden dat er een leveringskost is van 1 euro per kilometer vanuit Kasteel ter Rijst te Heikruis.
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></button>
 
@@ -118,9 +117,9 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.  Vraag feedback bi
 <!-- ### 2 Afhaaladressen:
 
 1. Orecah / T'Rest \
-   \*\*@ Kasteel Ter Rijst - Terrest 2, 1670 Heikruis\*\*
+   \\*\\*@ Kasteel Ter Rijst - Terrest 2, 1670 Heikruis\\*\\*
 2. Bistr'Oh Halle\
-   \*\*@ Residentie Asteria - Werlstraat 2, 1500 Halle\*\*
+   \\*\\*@ Residentie Asteria - Werlstraat 2, 1500 Halle\\*\\*
 -->
 
 ### Bestellingen:
