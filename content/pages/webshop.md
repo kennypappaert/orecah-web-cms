@@ -59,9 +59,9 @@ Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info ne
 
 ## Paas Menu 11 & 12 April 2020
 
-Pasen vieren in deze bijzondere Corona tijden? ![🎉](https://static.xx.fbcdn.net/images/emoji.php/v9/t8c/1/16/1f389.png) Dat kan met het restaurant gevoel bij je thuis! Maak het jezelf makkelijk en bestel uw menu bij Orecah. ![🍽️](https://static.xx.fbcdn.net/images/emoji.php/v9/t98/1/16/1f37d.png) Koude gerechten zijn klaar om op te dienen. Warme gerechten gerecht dienen enkel eventjes opgewarmd en gedresseerd te worden aan van ons stappenplan . Schuif je benen onder tafel en geniet met je naasten!. Santé!![🥂](https://static.xx.fbcdn.net/images/emoji.php/v9/tf/1/16/1f942.png)
+Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurant gevoel bij je thuis! Maak het jezelf makkelijk en bestel uw menu bij Orecah. 🍽️ Koude gerechten zijn klaar om op te dienen. Warme gerechten gerecht dienen enkel eventjes opgewarmd en gedresseerd te worden aan van ons stappenplan . Schuif je benen onder tafel en geniet met je naasten!. Santé!! 🥂
 
-<button class="center"><a href="<https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL>">Bestel uw Menu</a></button>
+<button class="center"><a href="<https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL>">Bestel uw Paasmenu</a></button>
 
 
 ## Paasmenu 1 - €47 p.p.
@@ -88,7 +88,7 @@ Vermeld aub leveringsdag 11 of 12 april in de opmerking.
 Alle menu's worden op de leveringsdag voor 12u geleverd.
 Gelieve rekening te houden dat er een leveringskost is van 1 euro per kilometer vanuit Kasteel ter Rijst te Heikruis.
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button>
+<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></button>
 
 ## Onze gekende NUGGETZ
 
