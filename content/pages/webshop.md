@@ -109,7 +109,7 @@ Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op d
 * Hoofdgerecht: Nobashi-garnaal / lamsoor / asperge
 * Dessert: Ruby chocolade / rode vruchten / Griekse yoghurt
 
-\* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
+\* Pas het menu aan naar wens of bestel de gerechten apart.
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel jouw Moederdag menu</a></button>
 
