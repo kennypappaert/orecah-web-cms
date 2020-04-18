@@ -95,7 +95,7 @@ Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op d
 
 <button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel jouw Moederdag menu</a></button>
 
-![](assets/img/moederdag.png)
+![](/assets/img/moederdag.png)
 
 ## Moederdag menu  1 - €50 p.p.
 
