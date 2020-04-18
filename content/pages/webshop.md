@@ -5,8 +5,6 @@ live: "true"
 path: /webshop
 template: menu
 ---
-![]()
-
 # Webshop
 
 <!-- ## Eindejaar Menu
@@ -104,7 +102,7 @@ Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op d
 * Hoofdgerecht: Varkenshaasje / mosterd / asperge
 * Dessert: Ruby chocolade / rode vruchten / Griekse yoghurt
 
-## Moeder menu 2 - €50 p.p.
+## Moederdag menu 2 - €50 p.p.
 
 * Hapjes
 * Voorgerecht: Carpaccio / rund / new style
