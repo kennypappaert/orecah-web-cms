@@ -25,13 +25,13 @@ In 2019 openden we 2 restaurants:
 
 Samen met Yvan en Maité realiseerden we een mooi project in Kasteel Ter Rijst te Heikruis.  Ook de volledige administratie van onze catering verhuisde naar deze locatie. In Oktober 2019 opende T'Rest de deuren, kom gerust eens langs om te ontdekken wat we hier te bieden hebben.
 
-<button class="center"><a href="http://t-rest.be/">Website T'Rest</a></button>
+<div class="center"><a href="http://t-rest.be/">Website T'Rest</a></div>
 
 * Bistr’Oh Halle 
 
 In November 2019 openden we Bistr'Oh Halle. Bistr’Oh Halle is een toegankelijke Bistro / Tea-room in “Residentie Asteria”. Je kan hier terecht voor zowel lunch, diner, koffie met taart of pannenkoeken maar ook om gezellig iets te komen drinken in de namiddag. Geen zin/tijd om zelf te koken? Ook afhaalmaaltijden kan je vinden in Bistr’Oh Halle. Met Bistr’Oh Halle willen we een gezellige ontmoetingsplaats creëren in het hart van Elisa-Park te Sint-Rochus.
 
-<button class="center"><a href="https://bistroh-halle.business.site/?utm_source=gmb&utm_medium=referral">Overzichtpagina Bistr'Oh Halle</a></button>
+<div class="center"><a href="https://bistroh-halle.business.site/?utm_source=gmb&utm_medium=referral">Overzichtpagina Bistr'Oh Halle</a></div>
 
 Onze leuze "When food becomes a passion" is bij ons geen vage slogan, het is een dagelijkse vaststelling.
 
