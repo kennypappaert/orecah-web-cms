@@ -11,7 +11,7 @@ template: menu
 
 Ontvangt u ook volk op kerst of oudejaar? 🎉Maak het uzelf makkelijk en bestel uw menu bij Orecah. 🍽️ Hapjes, voorgerecht en dessert zijn klaar om op te dienen. Soep en hoofdgerecht dienen enkel eventjes opgewarmd te worden. Schuif je benen onder tafel en geniet samen met je gasten. Santé!🥂
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button>
+<a class="center" href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a>
 
 ## The Chef's choice - MENU 1 - €45 p.p.
 
@@ -52,13 +52,13 @@ Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info ne
 \\\\\\* Quinoa / couscous / groentenassortiment
 \\\\\\*+ Dessertbord €42 p.p.
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></button> 
+<a class="center" href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a>
 
 ## Paas Menu 11 & 12 April 2020
 
 Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurantgevoel bij je thuis! Maak het jezelf makkelijk en bestel uw menu bij Orecah. 🍽️ Koude gerechten zijn klaar om op te dienen. Warme gerechten gerecht dienen enkel eventjes opgewarmd en gedresseerd te worden aan de hand van ons stappenplan. Schuif je benen onder tafel en geniet met je naasten!. Santé!! 🥂
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></button>
+<a class="center"  href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a>
 
 !\\\\[](/assets/img/92159605_262248684934397_4493186706794610688_n-min.sliced.png "paasmenu foto")
 
@@ -83,7 +83,7 @@ Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurantge
 ### Afsluitdatum bestellingen: 9 april
 Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op de leveringsdag voor 12u geleverd. Gelieve rekening te houden dat er een leveringskost is van 1 euro per kilometer vanuit Kasteel ter Rijst te Heikruis.
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></button> -->
+<a class="center"  href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a> -->
 
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/uF6UyJi1tZk" frameborder="0"allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op d
 
 10 mei is het uitgelezen moment om jouw moeder in de bloemetjes te zetten🎉. Orecah helpt jou daar graag bij. Verwennerij ten top met een culinair diner🍽️, een lekker wijntje en een bos kleurrijke ruikers. Wij leveren een volledig menu bij jouw moeder of bij je thuis. Aan de hand van de instructies kan je het menu zeer eenvoudig opwarmen en/of dresseren. Schuif je benen onder tafel en verras jouw mama, schoonmoeder of vrouw met een heerlijk menu🥂. 
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel jouw Moederdag menu</a></button>
+<a class="center"  href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel jouw Moederdag menu</a>
 
 ![](/assets/img/moederdag.png)
 
@@ -111,13 +111,13 @@ Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op d
 
 \* Pas het menu aan naar wens of bestel de gerechten apart.
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel jouw Moederdag menu</a></button>
+<a class="center"  href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel jouw Moederdag menu</a>
 
 ### Zet jouw mama in de bloemetjes
 
 Boeket moederdag: €25 Onze boeketten worden met liefde gemaakt door Puur passie uit Tollembeek.  Personaliseer jouw boeket en geef ons vooraf jouw persoonlijke boodschap door.
 
-<button class="center"><a href="hhttps://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=events&page.itemsPerPage=50&xlId=NL">Bestel jouw boeket</a></button>
+<a class="center"  href="hhttps://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=events&page.itemsPerPage=50&xlId=NL">Bestel jouw boeket</a>
 
 ### MAAK UW BELEVING COMPLEET
 
@@ -131,7 +131,7 @@ Boeket moederdag: €25 Onze boeketten worden met liefde gemaakt door Puur passi
 * Red: Pomerol, Chateau La Pointe, Bordeaux: €55,05
 * Red: Sainton N17, Languedoc, Frankrijk: €14,07
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=wijnen&page.itemsPerPage=50&xlId=NL">Bestel jouw wijnen</a></button>					
+<a class="center"  href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=wijnen&page.itemsPerPage=50&xlId=NL">Bestel jouw wijnen</a>					
 
 ### INFO BESTELLING
 
@@ -155,7 +155,7 @@ Voor alle vragen of info neemt u gerust contact op.
 >
 > Leuk dat het ook op echt servies was, niet in schaaltjes of plastiek orden. Nogmaals bedankt. **\- Schockaert M.**
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel jouw Moederdag menu</a></button>
+<a class="center" href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel jouw Moederdag menu</a>
 
 ## Onze gekende NUGGETZ
 
@@ -165,11 +165,11 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.  Vraag feedback bi
 
 "**Nuggetz**" diepgevroren producten zijn langer houdbaar d.m.v. het invries- & vacuümproces. 
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel uw Nuggetz</a></button>
+<a class="center"  href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel uw Nuggetz</a>
 
 ![chicken nuggets](/assets/img/nuggetz.jpg)
 
-<button class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel uw pleziertjes</a></button>
+<a class="center"  href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel uw pleziertjes</a>
 
 ## Info
 
