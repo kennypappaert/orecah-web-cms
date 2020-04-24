@@ -117,7 +117,7 @@ Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op d
 
 Boeket moederdag: €25 Onze boeketten worden met liefde gemaakt door Puur passie uit Tollembeek.  Personaliseer jouw boeket en geef ons vooraf jouw persoonlijke boodschap door.
 
-<div class="center"><a href="hhttps://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=events&page.itemsPerPage=50&xlId=NL">Bestel jouw boeket</a></div>
+<div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=events&page.itemsPerPage=50&xlId=NL">Bestel jouw boeket</a></div>
 
 ### MAAK UW BELEVING COMPLEET
 
