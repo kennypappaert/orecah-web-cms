@@ -15,21 +15,21 @@ Ontvangt u ook volk op kerst of oudejaar? 🎉Maak het uzelf makkelijk en bestel
 
 ## The Chef's choice - MENU 1 - €45 p.p.
 
-\\\\\\\* Carpaccio van hert / zwarte pens / knolselder
-\\\\\\\* Soep / curry / langoustine
-\\\\\\\* Kabeljauw / erwt / prei / venkel 
-\\\\\\\* Dulce de leche (caramel) / Valrhona chocolade / pecan 
+\\\\\\\\* Carpaccio van hert / zwarte pens / knolselder
+\\\\\\\\* Soep / curry / langoustine
+\\\\\\\\* Kabeljauw / erwt / prei / venkel 
+\\\\\\\\* Dulce de leche (caramel) / Valrhona chocolade / pecan 
 
-\\\\\\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
+\\\\\\\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
 
 ## Sous-chef's choice - MENU 2 - €45 p.p.
 
-\\\\\\\* Confijt van tonijn / mais /  hummus
-\\\\\\\* Soep / aardpeer / truffel
-\\\\\\\* Pluma Iberico / wortel / courgette  
-\\\\\\\* Dulce de leche (caramel) / Valrhona chocolade / pecan
+\\\\\\\\* Confijt van tonijn / mais /  hummus
+\\\\\\\\* Soep / aardpeer / truffel
+\\\\\\\\* Pluma Iberico / wortel / courgette  
+\\\\\\\\* Dulce de leche (caramel) / Valrhona chocolade / pecan
 
-\\\\\\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
+\\\\\\\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
 
 Afsluitdatum bestellingen: Kerst 18dec - 
 
@@ -37,20 +37,20 @@ Nieuwjaar 25dec / Bestellingen kunnen online geplaatst worden op Orecah.be
 
 Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info neemt u gerust contact op.
 
-!\\\\\\\\[](/assets/img/template-eindejaar-for-web.jpg "Folder eindejaar")
+!\\\\\\\\\[](/assets/img/template-eindejaar-for-web.jpg "Folder eindejaar")
 
 ## Koud Buffet - €35 p.p. (altijd beschikbaar)
 
-\\\\\\\* Rundscarpaccio
-\\\\\\\* Kip / Ananas / Zout-Zuur
-\\\\\\\* Meloen / Ham
-\\\\\\\* Carpaccio van tonijn
-\\\\\\\* Vitello tonnato
-\\\\\\\* Zalm gegaard op lage temperatuur
-\\\\\\\* Mozzarella / tomaat
-\\\\\\\* Aardappelsalade / pastasalade / vers brood
-\\\\\\\* Quinoa / couscous / groentenassortiment
-\\\\\\\*+ Dessertbord €42 p.p.
+\\\\\\\\* Rundscarpaccio
+\\\\\\\\* Kip / Ananas / Zout-Zuur
+\\\\\\\\* Meloen / Ham
+\\\\\\\\* Carpaccio van tonijn
+\\\\\\\\* Vitello tonnato
+\\\\\\\\* Zalm gegaard op lage temperatuur
+\\\\\\\\* Mozzarella / tomaat
+\\\\\\\\* Aardappelsalade / pastasalade / vers brood
+\\\\\\\\* Quinoa / couscous / groentenassortiment
+\\\\\\\\*+ Dessertbord €42 p.p.
 
 <div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></div> 
 
@@ -60,25 +60,25 @@ Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurantge
 
 <div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></div>
 
-!\\\\\[](/assets/img/92159605_262248684934397_4493186706794610688_n-min.sliced.png "paasmenu foto")
+!\\\\\\[](/assets/img/92159605_262248684934397_4493186706794610688_n-min.sliced.png "paasmenu foto")
 
 ## Paasmenu 1 - €50 p.p.
 
-\\\\\* Hapjes
-\\\\\* Voorgerecht: Asperge / a la Flamande / gepocheerd ei
-\\\\\* Hoofdgerecht: Parelhoen / groene asperge/ risotto
-\\\\\* Dessert: Aardbei / chocolade / munt
+\\\\\\* Hapjes
+\\\\\\* Voorgerecht: Asperge / a la Flamande / gepocheerd ei
+\\\\\\* Hoofdgerecht: Parelhoen / groene asperge/ risotto
+\\\\\\* Dessert: Aardbei / chocolade / munt
 
-\\\\\\* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
+\\\\\\\* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
 
 ## Paasmenu 2 - €50 p.p.
 
-\\\\\* Hapjes
-\\\\\* Voorgerecht: Vitello Tonnato
-\\\\\* Hoofdgerecht: Zeewolf / groene asperge / risotto
-\\\\\* Dessert: Aardbei / chocolade / munt
+\\\\\\* Hapjes
+\\\\\\* Voorgerecht: Vitello Tonnato
+\\\\\\* Hoofdgerecht: Zeewolf / groene asperge / risotto
+\\\\\\* Dessert: Aardbei / chocolade / munt
 
-\\\\\\* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
+\\\\\\\* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
 
 ### Afsluitdatum bestellingen: 9 april
 Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op de leveringsdag voor 12u geleverd. Gelieve rekening te houden dat er een leveringskost is van 1 euro per kilometer vanuit Kasteel ter Rijst te Heikruis.
@@ -93,21 +93,21 @@ Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op d
 
 <div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel jouw Moederdag menu</a></div>
 
-![](/assets/img/moederdag.png)
+!\[](/assets/img/moederdag.png)
 
 ## Moederdag menu  1 - €50 p.p.
 
-* Hapjes
-* Voorgerecht: Het beste uit de zee / vispannetje
-* Hoofdgerecht: Varkenshaasje / mosterd / asperge
-* Dessert: Ruby chocolade / rode vruchten / Griekse yoghurt
+\* Hapjes
+\* Voorgerecht: Het beste uit de zee / vispannetje
+\* Hoofdgerecht: Varkenshaasje / mosterd / asperge
+\* Dessert: Ruby chocolade / rode vruchten / Griekse yoghurt
 
 ## Moederdag menu 2 - €50 p.p.
 
-* Hapjes
-* Voorgerecht: Carpaccio / rund / new style
-* Hoofdgerecht: Nobashi-garnaal / lamsoor / asperge
-* Dessert: Ruby chocolade / rode vruchten / Griekse yoghurt
+\* Hapjes
+\* Voorgerecht: Carpaccio / rund / new style
+\* Hoofdgerecht: Nobashi-garnaal / lamsoor / asperge
+\* Dessert: Ruby chocolade / rode vruchten / Griekse yoghurt
 
 \* Pas het menu aan naar wens of bestel de gerechten apart.
 
@@ -121,14 +121,14 @@ Boeket moederdag: €25 Onze boeketten worden met liefde gemaakt door Puur passi
 
 ### MAAK UW BELEVING COMPLEET
 
-* Cava Fanatic: €10,00
-* Champagne Préveteau Perrier: €30,83
-* Champagne Albert Beerens Cuvee Carte Or: €38,96
-* White: Chardonnay, Bogle vineyards, Californie: €16,00
-* White: Garganega IGT: €13,50
-* White: 2018 Albarino Barbuntin, Rias Baixas, Spanje: €14,83
-* Red: Crossos, Priorat, Italië: €22,36
-* Red: Pomerol, Chateau La Pointe, Bordeaux: €55,05
+\* Cava Fanatic: €10,00
+\* Champagne Préveteau Perrier: €30,83
+\* Champagne Albert Beerens Cuvee Carte Or: €38,96
+\* White: Chardonnay, Bogle vineyards, Californie: €16,00
+\* White: Garganega IGT: €13,50
+\* White: 2018 Albarino Barbuntin, Rias Baixas, Spanje: €14,83
+\* Red: Crossos, Priorat, Italië: €22,36
+\* Red: Pomerol, Chateau La Pointe, Bordeaux: €55,05
 * Red: Sainton N17, Languedoc, Frankrijk: €14,07
 
 <div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=wijnen&page.itemsPerPage=50&xlId=NL">Bestel jouw wijnen</a></div>					
@@ -151,7 +151,7 @@ Het is onze plicht als grootste cateraar van Jaarmarkt Herne jullie te verwennen
 
 Dit jaar kunnen jullie komen afhalen ter hoogte van Electro Timmermans op het Heldenplein van Herne. 
 
-Alles wat we normaal al jaren op onze standen verkopen kan u nu komen afhalen tussen 10u en 12u op Pinkstermaandag. Opgelet: Reserveren is verplicht. Dit kan zowel telefonisch als via deze webshop. 
+Alles wat we normaal al jaren op onze standen verkopen kan u nu komen afhalen tussen 10u en 12u op Pinkstermaandag. Opgelet: Reserveren is verplicht. Dit kan zowel telefonisch als via deze webshop. Bestellen kan tot zaterdagavond 23u59! 
 
 Alle gerechten worden koud afgehaald. Deze zijn eenvoudig op te warmen of frituren. 
 
@@ -200,9 +200,9 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.  Vraag feedback bi
 <!-- ### 2 Afhaaladressen:
 
 1. Orecah / T'Rest \
-   \\\\\\\*\\\\\\\*@ Kasteel Ter Rijst - Terrest 2, 1670 Heikruis\\\\\\\*\\\\\\\*
+   \\\\\\\\*\\\\\\\\*@ Kasteel Ter Rijst - Terrest 2, 1670 Heikruis\\\\\\\\*\\\\\\\\*
 2. Bistr'Oh Halle\
-   \\\\\\\*\\\\\\\*@ Residentie Asteria - Werlstraat 2, 1500 Halle\\\\\\\*\\\\\\\*
+   \\\\\\\\*\\\\\\\\*@ Residentie Asteria - Werlstraat 2, 1500 Halle\\\\\\\\*\\\\\\\\*
 -->
 
 ### Bestellingen:
