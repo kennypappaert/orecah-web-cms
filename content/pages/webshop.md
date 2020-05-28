@@ -1,6 +1,6 @@
 ---
-name: Moederdag menu
-title: Moederdag menu
+name: Jaarmarkt Herne 2020
+title: Jaarmarkt Herne 2020
 live: "true"
 path: /webshop
 template: menu
@@ -15,21 +15,21 @@ Ontvangt u ook volk op kerst of oudejaar? 🎉Maak het uzelf makkelijk en bestel
 
 ## The Chef's choice - MENU 1 - €45 p.p.
 
-\\\\\\* Carpaccio van hert / zwarte pens / knolselder
-\\\\\\* Soep / curry / langoustine
-\\\\\\* Kabeljauw / erwt / prei / venkel 
-\\\\\\* Dulce de leche (caramel) / Valrhona chocolade / pecan 
+\\\\\\\* Carpaccio van hert / zwarte pens / knolselder
+\\\\\\\* Soep / curry / langoustine
+\\\\\\\* Kabeljauw / erwt / prei / venkel 
+\\\\\\\* Dulce de leche (caramel) / Valrhona chocolade / pecan 
 
-\\\\\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
+\\\\\\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
 
 ## Sous-chef's choice - MENU 2 - €45 p.p.
 
-\\\\\\* Confijt van tonijn / mais /  hummus
-\\\\\\* Soep / aardpeer / truffel
-\\\\\\* Pluma Iberico / wortel / courgette  
-\\\\\\* Dulce de leche (caramel) / Valrhona chocolade / pecan
+\\\\\\\* Confijt van tonijn / mais /  hummus
+\\\\\\\* Soep / aardpeer / truffel
+\\\\\\\* Pluma Iberico / wortel / courgette  
+\\\\\\\* Dulce de leche (caramel) / Valrhona chocolade / pecan
 
-\\\\\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
+\\\\\\\*Beide menu’s: Keuze uit puree, amandelkroketjes of aardappelgratin. U kan gerust gerechten wisselen tussen de menu’s
 
 Afsluitdatum bestellingen: Kerst 18dec - 
 
@@ -37,20 +37,20 @@ Nieuwjaar 25dec / Bestellingen kunnen online geplaatst worden op Orecah.be
 
 Afhalingen tussen 16u en 18u met bevestigingsmail. / Voor alle vragen of info neemt u gerust contact op.
 
-!\\\\\\\[](/assets/img/template-eindejaar-for-web.jpg "Folder eindejaar")
+!\\\\\\\\[](/assets/img/template-eindejaar-for-web.jpg "Folder eindejaar")
 
 ## Koud Buffet - €35 p.p. (altijd beschikbaar)
 
-\\\\\\* Rundscarpaccio
-\\\\\\* Kip / Ananas / Zout-Zuur
-\\\\\\* Meloen / Ham
-\\\\\\* Carpaccio van tonijn
-\\\\\\* Vitello tonnato
-\\\\\\* Zalm gegaard op lage temperatuur
-\\\\\\* Mozzarella / tomaat
-\\\\\\* Aardappelsalade / pastasalade / vers brood
-\\\\\\* Quinoa / couscous / groentenassortiment
-\\\\\\*+ Dessertbord €42 p.p.
+\\\\\\\* Rundscarpaccio
+\\\\\\\* Kip / Ananas / Zout-Zuur
+\\\\\\\* Meloen / Ham
+\\\\\\\* Carpaccio van tonijn
+\\\\\\\* Vitello tonnato
+\\\\\\\* Zalm gegaard op lage temperatuur
+\\\\\\\* Mozzarella / tomaat
+\\\\\\\* Aardappelsalade / pastasalade / vers brood
+\\\\\\\* Quinoa / couscous / groentenassortiment
+\\\\\\\*+ Dessertbord €42 p.p.
 
 <div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Menu</a></div> 
 
@@ -60,32 +60,32 @@ Pasen vieren in deze bijzondere Corona tijden? 🎉 Dat kan met het restaurantge
 
 <div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></div>
 
-!\\\\[](/assets/img/92159605_262248684934397_4493186706794610688_n-min.sliced.png "paasmenu foto")
+!\\\\\[](/assets/img/92159605_262248684934397_4493186706794610688_n-min.sliced.png "paasmenu foto")
 
 ## Paasmenu 1 - €50 p.p.
 
-\\\\* Hapjes
-\\\\* Voorgerecht: Asperge / a la Flamande / gepocheerd ei
-\\\\* Hoofdgerecht: Parelhoen / groene asperge/ risotto
-\\\\* Dessert: Aardbei / chocolade / munt
+\\\\\* Hapjes
+\\\\\* Voorgerecht: Asperge / a la Flamande / gepocheerd ei
+\\\\\* Hoofdgerecht: Parelhoen / groene asperge/ risotto
+\\\\\* Dessert: Aardbei / chocolade / munt
 
-\\\\\* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
+\\\\\\* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
 
 ## Paasmenu 2 - €50 p.p.
 
-\\\\* Hapjes
-\\\\* Voorgerecht: Vitello Tonnato
-\\\\* Hoofdgerecht: Zeewolf / groene asperge / risotto
-\\\\* Dessert: Aardbei / chocolade / munt
+\\\\\* Hapjes
+\\\\\* Voorgerecht: Vitello Tonnato
+\\\\\* Hoofdgerecht: Zeewolf / groene asperge / risotto
+\\\\\* Dessert: Aardbei / chocolade / munt
 
-\\\\\* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
+\\\\\\* U kan gerust gerechten wisselen tussen de menu’s of de gerechten apart bestellen.
 
 ### Afsluitdatum bestellingen: 9 april
 Vermeld aub leveringsdag 11 of 12 april in de opmerking. Alle menu's worden op de leveringsdag voor 12u geleverd. Gelieve rekening te houden dat er een leveringskost is van 1 euro per kilometer vanuit Kasteel ter Rijst te Heikruis.
 
-<div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></div> -->
+<div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/?xlId=NL">Bestel uw Paasmenu</a></div> 
 
-<iframe width="100%" height="405" src="https://www.youtube.com/embed/uF6UyJi1tZk" frameborder="0"allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="405" src="https://www.youtube.com/embed/uF6UyJi1tZk" frameborder="0"allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Moederdag Menu 10 mei 2020
 
@@ -143,7 +143,31 @@ De koude gerechten zijn klaar om op te dienen. De warme gerechten dienen enkel o
 
 ### AFSLUITDATUM BESTELLINGEN: 5 MEI 2020
 
-Voor alle vragen of info neemt u gerust contact op.
+Voor alle vragen of info neemt u gerust contact op. -->
+
+## Jaarmarkt Herne afhaal - Pinkstermaandag 1 Juni 2020
+
+Het is onze plicht als grootste cateraar van Jaarmarkt Herne jullie te verwennen en te helpen met lekkere snacks en bubbels op pinkstermaandag. 
+
+Dit jaar kunnen jullie komen afhalen ter hoogte van Electro Timmermans op het Heldenplein van Herne. 
+
+Alles wat we normaal al jaren op onze standen verkopen kan u nu komen afhalen tussen 10u en 12u op Pinkstermaandag. Opgelet: Reserveren is verplicht. Dit kan zowel telefonisch als via deze webshop. 
+
+Alle gerechten worden koud afgehaald. Deze zijn eenvoudig op te warmen of frituren. 
+
+Geniet in je bubbels van jouw bubbels! 🍾🥂
+
+<div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=events&page.itemsPerPage=50&xlId=NL">Bestel jouw Jaarmarkt Herne  snacks en bubbels </a></div>
+
+ <iframe width="100%" height="405" src="https://www.youtube.com/embed/Xr2bUn9ViHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Vaderdag Menu 14 Juni 2020
+
+10 mei is het uitgelezen moment om jouw Vader in de bloemetjes te zetten🎉. Orecah helpt jou daar graag bij. Verwennerij ten top met een culinair diner🍽️, een lekker wijntje en een toffe attentie. Wij leveren een volledig menu bij jouw vader of bij je thuis. Aan de hand van de instructies kan je het menu zeer eenvoudig opwarmen en/of dresseren. Schuif je benen onder tafel en verras jouw vader, schoonvader of man met een heerlijk menu🥂. 
+
+Het Vaderdagmenu komt zeer binnenkort online! 
+
+ <iframe width="100%" height="405" src="https://www.youtube.com/embed/uF6UyJi1tZk" frameborder="0"allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reviews van enkele klanten over het Paasmenu 2020
 
@@ -176,9 +200,9 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.  Vraag feedback bi
 <!-- ### 2 Afhaaladressen:
 
 1. Orecah / T'Rest \
-   \\\\\\*\\\\\\*@ Kasteel Ter Rijst - Terrest 2, 1670 Heikruis\\\\\\*\\\\\\*
+   \\\\\\\*\\\\\\\*@ Kasteel Ter Rijst - Terrest 2, 1670 Heikruis\\\\\\\*\\\\\\\*
 2. Bistr'Oh Halle\
-   \\\\\\*\\\\\\*@ Residentie Asteria - Werlstraat 2, 1500 Halle\\\\\\*\\\\\\*
+   \\\\\\\*\\\\\\\*@ Residentie Asteria - Werlstraat 2, 1500 Halle\\\\\\\*\\\\\\\*
 -->
 
 ### Bestellingen:
@@ -188,6 +212,6 @@ Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.  Vraag feedback bi
 
 ### Gegevens:
 
-* BTW BE 0589.970.529
-* Kenny Pappaert - info@orecah.be 
+* BTW BE 0727.711.816
+* info@orecah.be 
 * 053 89 35 20  - www.orecah.be
