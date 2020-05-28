@@ -149,7 +149,7 @@ Voor alle vragen of info neemt u gerust contact op. -->
 
 Het is onze plicht als grootste cateraar van Jaarmarkt Herne jullie te verwennen en te helpen met lekkere snacks en bubbels op pinkstermaandag. 
 
-Dit jaar kunnen jullie komen afhalen ter hoogte van het Heldenplein van Herne. 
+Dit jaar kunnen jullie komen afhalen ter hoogte van het Heldenplein van Herne. Exact adres wordt bevestigd per mail na uw bestelling. 
 
 Alles wat we normaal al jaren op onze standen verkopen kan u nu komen afhalen tussen 10u en 12u op Pinkstermaandag. Opgelet: Reserveren is verplicht. Dit kan zowel telefonisch als via deze webshop. Bestellen kan tot zaterdagavond 23u59! 
 
