@@ -6,7 +6,19 @@ live: true
 path: /
 template: home
 ---
-**Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat is Orecah. Van exclusieve, verfijnde catering tot een eigen broodjeszaak en een leveringsdienst van dagschotels aan huis. Orecah staat altijd voor kwaliteit. Maatwerk is ons handelsmerk.**
+
+
+**Welkom bij de Orecah Group**
+
+**Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat is Orecah Group. Van een exclusieve, verfijnde catering tot een eigen broodjeszaak, restaurants en een leveringsdienst van dagschotels aan huis. Orecah Group staat altijd voor kwaliteit. Maatwerk is ons handelsmerk.**
+
+* **[Exclusive Catering by Orecah](https://orecah.be/exclusive-catering)**
+* **[Autres Saveurs  - Broodjeszaak @Cora Shopping Anderlecht ](https://www.facebook.com/autressaveurs/)**
+* **[E-lunch.be - Leveringsdienst dagschotels aan huis ](https://www.e-lunch.be/)**
+* **[T'Rest - B&B - Bistronomy - Events](http://t-rest.be/)**
+* **[Bistr'Oh Halle - Bistro - Tea-room](https://bistroh-halle.business.site/)**
+
+
 
 ## \#The chefs history
 
@@ -16,8 +28,7 @@ In 2013 begon Orecah kleinschalig met hier en daar traiteurs aan huis te doen. S
 
 We hebben al verschillende stadia doorlopen en blijven ons inzetten om onze creativiteit te prikkelen. Geen uitdaging is voor ons te veel, wij werken graag met verse kwaliteitsvolle ingrediënten en op maat van de klant om ons te onderscheiden.
 
-Begin 2015 nam Orecah een sandwichbar/tearoom over in een shoppingcentrum in Brussel. In 2017 namen wij Max Boterhammen over. Dit is een Leveringsdienst van broodjes aan bedrijven.
-In 2018 zijn wij gestart met E-lunch.be, hierbij leveren wij verse dagschotels aan huis.
+Begin 2015 nam Orecah een sandwichbar/tearoom over in een shoppingcentrum in Brussel. In 2017 namen wij Max Boterhammen over. Dit is een Leveringsdienst van broodjes aan bedrijven. In 2018 zijn wij gestart met E-lunch.be, hierbij leveren wij verse dagschotels aan huis.
 
 In 2019 openden we 2 restaurants: 
 
@@ -29,9 +40,13 @@ Samen met Yvan en Maité realiseerden we een mooi project in Kasteel Ter Rijst t
 
 * Bistr’Oh Halle 
 
-In November 2019 openden we Bistr'Oh Halle. Bistr’Oh Halle is een toegankelijke Bistro / Tea-room in “Residentie Asteria”. Je kan hier terecht voor zowel lunch, diner, koffie met taart of pannenkoeken maar ook om gezellig iets te komen drinken in de namiddag. Geen zin/tijd om zelf te koken? Ook afhaalmaaltijden kan je vinden in Bistr’Oh Halle. Met Bistr’Oh Halle willen we een gezellige ontmoetingsplaats creëren in het hart van Elisa-Park te Sint-Rochus.
+In November 2019 openden we Bistr'Oh Halle. Bistr’Oh Halle is een toegankelijke Bistro / Tea-room in “Residentie Asteria”.  Je kan hier terecht voor zowel lunch, diner, koffie met taart of pannenkoeken maar ook
+ om gezellig iets te komen drinken in de namiddag.
+ Geen zin/tijd om zelf te koken? Ook afhaalmaaltijden kan je vinden in Bistr’Oh Halle. 
+Met Bistr’Oh Halle willen we een gezellige ontmoetingsplaats creëren in het hart van
+ Elisa-Park te Sint-Rochus.
 
-<div class="center"><a href="https://bistroh-halle.business.site/?utm_source=gmb&utm_medium=referral">Overzichtpagina Bistr'Oh Halle</a></div>
+<div class="center"><a href="https://bistroh-halle.business.site/?utm_source=gmb&utm_medium=referral">Overzichtpagina Bistr'Oh Halle</a></div>
 
 Onze leuze "When food becomes a passion" is bij ons geen vage slogan, het is een dagelijkse vaststelling.
 
