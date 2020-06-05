@@ -1,6 +1,6 @@
 ---
-name: Jaarmarkt Herne 2020
-title: Jaarmarkt Herne 2020
+name: Webshop - Vaderdag
+title: "Webshop - Vaderdag "
 live: "true"
 path: /webshop
 template: menu
@@ -192,7 +192,7 @@ Je hebt de keuze tussen twee verschillende menu’s. Het is zeker mogelijk om ve
 
 Alle menu's worden op 14 Juni voor 12u30 geleverd of afgehaald. Het afleveren gebeurt zonder rechtstreeks contact en volgens de veiligheidsvoorschriften. Nadien wordt het materiaal opgehaald of teruggebracht op een afgesproken moment. 
 
-Gelieve duidelijk te vermelden of je wenst af te halen of er geleverd mag worden. Je dient er rekening mee te houden dat er een leveringskost is van 1 euro per kilometer vanuit Heikruis. (Deze wordt verrekend bij de eindfactuur) - Gelieve duidelijk te vermelden wanneer het leveringsadres wijzigt van het adres in uw account.
+Gelieve duidelijk te vermelden of je wenst af te halen of er geleverd mag worden. Je dient er rekening mee te houden dat er een leveringskost is van 1 euro per kilometer vanuit Heikruis. (Deze wordt verrekend bij de eindfactuur) - Gelieve duidelijk te vermelden wanneer het leveringsadres wijzigt van het adres in uw account. Afhalen is uiteraard gratis. 
 
 De koude gerechten zijn klaar om op te dienen. De warme gerechten dienen enkel opgewarmd en gedresseerd te worden. Vooraf ontvang je van ons een uitgebreid stappenplan om dit vlot te laten verlopen. 
 
