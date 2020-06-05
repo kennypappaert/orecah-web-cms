@@ -216,11 +216,13 @@ Voor alle vragen of info neemt u gerust contact op.
 
 ## Onze gekende NUGGETZ
 
-500g Chicken "**Nuggetz**" +/- 14 stuks. Home-made & fresh/frozen
+500g Chicken "**Nuggetz**" +/- 16 stuks. Home-made & fresh/frozen
 
 Gemaakt van puur kipfilets en 100% natuurlijke ingrediënten.  Vraag feedback bij onze klanten. Alle Orecah-klanten kennen onze lekkere "**Nuggetz**".
 
 "**Nuggetz**" diepgevroren producten zijn langer houdbaar d.m.v. het invries- & vacuümproces. 
+
+"**Ook met vis verkrijgbaar!**" 
 
 <div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Bestel jouw Nuggetz</a></div>
 
