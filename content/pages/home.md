@@ -6,19 +6,17 @@ live: true
 path: /
 template: home
 ---
-
-
 **Welkom bij de Orecah Group**
 
 **Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat is Orecah Group. Van een exclusieve, verfijnde catering tot een eigen broodjeszaak, restaurants en een leveringsdienst van dagschotels aan huis. Orecah Group staat altijd voor kwaliteit. Maatwerk is ons handelsmerk.**
+
+![](assets/img/banner-email.jpg)
 
 * **[Exclusive Catering by Orecah](https://orecah.be/exclusive-catering)**
 * **[Autres Saveurs  - Broodjeszaak @Cora Shopping Anderlecht ](https://www.facebook.com/autressaveurs/)**
 * **[E-lunch.be - Leveringsdienst dagschotels aan huis ](https://www.e-lunch.be/)**
 * **[T'Rest - B&B - Bistronomy - Events](http://t-rest.be/)**
 * **[Bistr'Oh Halle - Bistro - Tea-room](https://bistroh-halle.business.site/)**
-
-
 
 ## \#The chefs history
 
