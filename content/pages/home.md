@@ -6,6 +6,11 @@ live: true
 path: /
 template: home
 ---
+## COVID
+
+
+<div class="center"><a href="/webshop/">Kijk hoe u ons kan steunen</a></div>
+
 ## Welkom bij de Orecah Group
 
 **Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat is Orecah Group. Van een exclusieve, verfijnde catering tot een eigen broodjeszaak, restaurants en een leveringsdienst van dagschotels aan huis. Orecah Group staat altijd voor kwaliteit. Maatwerk is ons handelsmerk.**
@@ -72,13 +77,13 @@ Begin 2015 nam Orecah een sandwichbar/tearoom over in een shoppingcentrum in Bru
 
 In 2019 openden we 2 restaurants: 
 
-* T’Rest B&B - Bistronomy - Events 
+### T’Rest B&B - Bistronomy - Events 
 
 Samen met Yvan en Maité realiseerden we een mooi project in Kasteel Ter Rijst te Heikruis.  Ook de volledige administratie van onze catering verhuisde naar deze locatie. In Oktober 2019 opende T'Rest de deuren, kom gerust eens langs om te ontdekken wat we hier te bieden hebben.
 
 <div class="center"><a href="http://t-rest.be/">Website T'Rest</a></div>
 
-* Bistr’Oh Halle 
+### Bistr’Oh Halle 
 
 In November 2019 openden we Bistr'Oh Halle. Bistr’Oh Halle is een toegankelijke Bistro / Tea-room in “Residentie Asteria”.  Je kan hier terecht voor zowel lunch, diner, koffie met taart of pannenkoeken maar ook
  om gezellig iets te komen drinken in de namiddag.
