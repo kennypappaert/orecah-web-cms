@@ -16,6 +16,48 @@ template: home
     <a href="https://bistroh-halle.business.site/"><img src="assets/img/bistroh-cta-min.jpg" alt=""></a>
     <a href="https://e-lunch.be"><img src="assets/img/elunch-cta-min.jpg" alt=""></a>
     <a href="https://www.facebook.com/autressaveurs/"><img src="assets/img/autresaveurs-cta-min.jpg" alt=""></a>
+    <style>
+        #banner-cta-company {
+            font-size: 0;
+        }
+        
+        #banner-cta-company a img {
+            width: calc(100% / 3);
+            border-left: 1px solid black;
+            border-right: 1px solid black;
+            border-top: 1px solid black;
+            box-sizing: border-box;
+        }
+        
+        #banner-cta-company a:nth-child(1) img,
+        #banner-cta-company a:nth-child(2) img {
+            width: 50%;
+            border-bottom: 1px solid black;
+            border-top: 0;
+        }
+        
+        #banner-cta-company a:first-of-type img,
+        #banner-cta-company a:nth-child(3) img {
+            border-left-color: transparent;
+        }
+        
+        #banner-cta-company a:last-of-type img,
+        #banner-cta-company a:nth-child(2) img {
+            border-right-color: transparent;
+        }
+        
+        @media (min-width: 500px) {
+            #banner-cta-company a img:last-child {
+                width: 20%;
+                border-top: 0;
+                border-bottom: 0;
+            }
+            #banner-cta-company a:nth-child(2) img,
+            #banner-cta-company a:nth-child(3) img {
+                border-color: black;
+            }
+        }
+    </style>
 </div>
 
 ## \#The chefs history
