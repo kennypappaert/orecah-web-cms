@@ -8,7 +8,7 @@ template: home
 ---
 ## We hebben uw steun nodig
 
-Zonder uw steun is het voor ons, en wellicht voor vele horecazaken, ontzettend moeilijk om het hoofd boven water te houden. De nasleep van de vorige lockdown is nog erg te voelen. Zonder inkomsten, met blijvende kosten en een stapel facturen moeten we de komende maand(en) overbruggen.
+Zonder uw steun is het voor ons, en wellicht voor vele horecazaken, ontzettend moeilijk om het hoofd boven water te houden. De nasleep van de vorige lockdown is nog erg te voelen. Zonder inkomsten, met blijvende kosten en een stapel facturen moeten we de komende maand(en) overbruggen. **#RedDeHoReCa**
 
 <div class="center"><a href="/webshop/">Kijk hoe u ons kan steunen</a></div>
 
