@@ -10,7 +10,7 @@ template: home
 
 **Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat is Orecah Group. Van een exclusieve, verfijnde catering tot een eigen broodjeszaak, restaurants en een leveringsdienst van dagschotels aan huis. Orecah Group staat altijd voor kwaliteit. Maatwerk is ons handelsmerk.**
 
-<section id="banner-cta-company" class="text-size">
+<section id="banner-cta-company" class="text-indent">
     <a href="/exclusive-catering"><img src="assets/img/orecah-cta-min.jpg" alt=""></a>
     <a href="https://t-rest.be"><img src="assets/img/trest-cta-min.jpg" alt=""></a>
     <a href="https://bistroh-halle.business.site/"><img src="assets/img/bistroh-cta-min.jpg" alt=""></a>
