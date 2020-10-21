@@ -6,7 +6,7 @@ live: true
 path: /
 template: home
 ---
-**Welkom bij de Orecah Group**
+## Welkom bij de Orecah Group
 
 **Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat is Orecah Group. Van een exclusieve, verfijnde catering tot een eigen broodjeszaak, restaurants en een leveringsdienst van dagschotels aan huis. Orecah Group staat altijd voor kwaliteit. Maatwerk is ons handelsmerk.**
 
