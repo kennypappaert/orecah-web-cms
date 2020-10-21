@@ -10,13 +10,55 @@ template: home
 
 **Zoekt u een voorstel op maat binnen de voeding of horeca dan bent u bij Orecah op het juiste (web)adres. Verschillende Horeca-activiteiten onder 1 naam, Dat is Orecah Group. Van een exclusieve, verfijnde catering tot een eigen broodjeszaak, restaurants en een leveringsdienst van dagschotels aan huis. Orecah Group staat altijd voor kwaliteit. Maatwerk is ons handelsmerk.**
 
-![](assets/img/banner-email.jpg)
-
-* **[Exclusive Catering by Orecah](https://orecah.be/exclusive-catering)**
-* **[Autres Saveurs  - Broodjeszaak @Cora Shopping Anderlecht ](https://www.facebook.com/autressaveurs/)**
-* **[E-lunch.be - Leveringsdienst dagschotels aan huis ](https://www.e-lunch.be/)**
-* **[T'Rest - B&B - Bistronomy - Events](http://t-rest.be/)**
-* **[Bistr'Oh Halle - Bistro - Tea-room](https://bistroh-halle.business.site/)**
+<section id="banner-cta-company">
+    <a href="/exclusive-catering"><img src="assets/img/orecah-cta-min.jpg" alt=""></a>
+    <a href="https://t-rest.be"><img src="assets/img/trest-cta-min.jpg" alt=""></a>
+    <a href="https://bistroh-halle.business.site/"><img src="assets/img/bistroh-cta-min.jpg" alt=""></a>
+    <a href="https://e-lunch.be"><img src="assets/img/elunch-cta-min.jpg" alt=""></a>
+    <a href="https://www.facebook.com/autressaveurs/"><img src="assets/img/autresaveurs-cta-min.jpg" alt=""></a>
+    <style>
+        #banner-cta-company {
+            font-size: 0;
+        }
+        
+        #banner-cta-company a img {
+            width: calc(100% / 3);
+            border-left: 1px solid black;
+            border-right: 1px solid black;
+            border-top: 1px solid black;
+            box-sizing: border-box;
+        }
+        
+        #banner-cta-company a:nth-child(1) img,
+        #banner-cta-company a:nth-child(2) img {
+            width: 50%;
+            border-bottom: 1px solid black;
+            border-top: 0;
+        }
+        
+        #banner-cta-company a:first-of-type img,
+        #banner-cta-company a:nth-child(3) img {
+            border-left-color: transparent;
+        }
+        
+        #banner-cta-company a:last-of-type img,
+        #banner-cta-company a:nth-child(2) img {
+            border-right-color: transparent;
+        }
+        
+        @media (min-width: 500px) {
+            #banner-cta-company a img:last-child {
+                width: 20%;
+                border-top: 0;
+                border-bottom: 0;
+            }
+            #banner-cta-company a:nth-child(2) img,
+            #banner-cta-company a:nth-child(3) img {
+                border-color: black;
+            }
+        }
+    </style>
+</section>
 
 ## \#The chefs history
 
