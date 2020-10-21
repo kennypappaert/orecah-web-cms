@@ -34,14 +34,14 @@ Er zijn verschillende soorten waardebonnen beschikbaar.
 
 ## De klassieke waardebon
 Deze is meteen geldig vanaf de aankoop en dit gedurende 1 jaar. 
-* Bij aankoop van een bon met waarde van €100 of meer, krijgt u meteen na de aankoop een digitale bedankingskaart. Deze kunt u voor uzelf houden of delen met vrienden en kennissen om te tonen hoe nauw deze sector u aan het hart ligt en hen te motiveren jouw voorbeeld te volgen.
-* Bij aankoop van een bon met waarde van €500 of meer, krijgt u meteen na de aankoop een digitale bedankingskaart (zoals hierboven beschreven) en krijgt u daarbovenop een fles (0,75l) van onze huiswijn Château T’Rest, AOC Viré Clessé. Dit is een selectie gemaakt door onze zaakvoerder en enkele wijnkenners/-liefhebbers. 
+* **Bij aankoop van een bon met waarde van €100 of meer**, krijgt u meteen na de aankoop een digitale bedankingskaart. Deze kunt u voor uzelf houden of delen met vrienden en kennissen om te tonen hoe nauw deze sector u aan het hart ligt en hen te motiveren jouw voorbeeld te volgen.
+* **Bij aankoop van een bon met waarde van €500 of meer**, krijgt u meteen na de aankoop een digitale bedankingskaart (zoals hierboven beschreven) en krijgt u daarbovenop een fles (0,75l) van onze huiswijn Château T’Rest, AOC Viré Clessé. Dit is een selectie gemaakt door onze zaakvoerder en enkele wijnkenners/-liefhebbers. 
 
 ## De "grote steun" waardebon
 Deze is geldig vanaf 1 jaar na de aankoop en dit gedurende 2 jaar vanaf de start van de geldigheid (ofwel tot drie jaar na de aankoop). 
-* Bij aankoop van een bon met waarde van €100 of meer, krijgt u meteen na de aankoop een digitale bedankingskaart. Deze kunt u voor uzelf houden of delen met vrienden en kennissen om te tonen hoe nauw deze sector u aan het hart ligt en hen te motiveren jouw voorbeeld te volgen.
-* Bij aankoop van een bon met waarde van €250 of meer, krijgt u meteen na de aankoop een digitale bedankingskaart (zoals hierboven beschreven) en krijgt u daarbovenop een fles (0,75l) van onze huiswijn Château T’Rest, AOC Viré Clessé. Dit is een selectie gemaakt door onze zaakvoerder en enkele wijnkenners/-liefhebbers. 
-* Bij aankoop van een bon met waarde van €500 of meer, krijgt u meteen na de aankoop een digitale bedankingskaart (zoals hierboven beschreven) en krijgt u daarbovenop een MAGNUM fles (1,5l) van onze huiswijn Château T’Rest, AOC Viré Clessé. Dit is een selectie gemaakt door onze zaakvoerder en enkele wijnkenners/-liefhebbers. 
+* **Bij aankoop van een bon met waarde van €100 of meer**, krijgt u meteen na de aankoop een digitale bedankingskaart. Deze kunt u voor uzelf houden of delen met vrienden en kennissen om te tonen hoe nauw deze sector u aan het hart ligt en hen te motiveren jouw voorbeeld te volgen.
+* **Bij aankoop van een bon met waarde van €250 of meer**, krijgt u meteen na de aankoop een digitale bedankingskaart (zoals hierboven beschreven) en krijgt u daarbovenop een fles (0,75l) van onze huiswijn Château T’Rest, AOC Viré Clessé. Dit is een selectie gemaakt door onze zaakvoerder en enkele wijnkenners/-liefhebbers. 
+* **Bij aankoop van een bon met waarde van €500 of meer**, krijgt u meteen na de aankoop een digitale bedankingskaart (zoals hierboven beschreven) en krijgt u daarbovenop een MAGNUM fles (1,5l) van onze huiswijn Château T’Rest, AOC Viré Clessé. Dit is een selectie gemaakt door onze zaakvoerder en enkele wijnkenners/-liefhebbers. 
 
 <div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Koop hier uw waardebon</a></div>
 
