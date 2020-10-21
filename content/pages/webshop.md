@@ -7,7 +7,13 @@ template: menu
 ---
 # Steunactie
 
-<br>
+Het doet ons plezier dat je komt kijken hoe je ons kan helpen. 
+Hier leggen we kort uit wat de mogelijkheden zijn om ons te steunen.
+
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/uF6UyJi1tZk" frameborder="0"allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Je kan ons steunen door een waardebon aan te schaffen. 
+
 <div class="center"><a href="https://webshop.admisol.be/shop2/company/123476737/shop/5/search?articleGroupId=webshop&page.itemsPerPage=50&xlId=NL">Koop hier uw waardebon</a></div>
 
 Zonder uw steun is het voor ons, en wellicht voor vele horecazaken, ontzettend moeilijk om het hoofd boven water te houden. De nasleep van de vorige lockdown is nog erg te voelen. Zonder inkomsten, met blijvende kosten en een stapel facturen moeten we de komende maand(en) overbruggen. 
