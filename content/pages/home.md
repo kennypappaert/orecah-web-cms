@@ -6,8 +6,9 @@ live: true
 path: /
 template: home
 ---
-## COVID
+## We hebben uw steun nodig
 
+Zonder uw steun is het voor ons, en wellicht voor vele horecazaken, ontzettend moeilijk om het hoofd boven water te houden. De nasleep van de vorige lockdown is nog erg te voelen. Zonder inkomsten, met blijvende kosten en een stapel facturen moeten we de komende maand(en) overbruggen.
 
 <div class="center"><a href="/webshop/">Kijk hoe u ons kan steunen</a></div>
 
@@ -77,13 +78,13 @@ Begin 2015 nam Orecah een sandwichbar/tearoom over in een shoppingcentrum in Bru
 
 In 2019 openden we 2 restaurants: 
 
-### T’Rest B&B - Bistronomy - Events 
+### T’Rest B&B - Bistronomy - Events
 
 Samen met Yvan en Maité realiseerden we een mooi project in Kasteel Ter Rijst te Heikruis.  Ook de volledige administratie van onze catering verhuisde naar deze locatie. In Oktober 2019 opende T'Rest de deuren, kom gerust eens langs om te ontdekken wat we hier te bieden hebben.
 
 <div class="center"><a href="http://t-rest.be/">Website T'Rest</a></div>
 
-### Bistr’Oh Halle 
+### Bistr’Oh Halle
 
 In November 2019 openden we Bistr'Oh Halle. Bistr’Oh Halle is een toegankelijke Bistro / Tea-room in “Residentie Asteria”.  Je kan hier terecht voor zowel lunch, diner, koffie met taart of pannenkoeken maar ook
  om gezellig iets te komen drinken in de namiddag.
